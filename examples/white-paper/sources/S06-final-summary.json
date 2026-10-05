@@ -1,0 +1,82 @@
+{
+  "author_cases": 4,
+  "source_correction_revision_episodes": 4,
+  "final_independent_semantic": "4/4 no material defect",
+  "final_fresh_reader": "4/4 no material misunderstanding",
+  "managed_release_checks": "3/3 pass",
+  "direct_manual_review": "1/1 pass; automated controls not applicable",
+  "cases": [
+    {
+      "trial": "W01",
+      "workflow": "compact",
+      "protected_violations": [],
+      "preflight": {
+        "exit_code": 0,
+        "stdout": "Preflight: PASS; 0 errors, 0 warnings.\nSemantic support, completeness, calculations, and visual quality require the recorded human/agent reviews.\n",
+        "stderr": ""
+      },
+      "release": {
+        "exit_code": 0,
+        "stdout": "Release controls: PASS; 0 errors, 0 warnings.\nSemantic support, completeness, calculations, and visual quality require the recorded human/agent reviews.\n",
+        "stderr": ""
+      },
+      "planning_evidence_control_files": 7,
+      "planning_evidence_control_bytes": 24992,
+      "reading_words": 628
+    },
+    {
+      "trial": "W02",
+      "workflow": "direct",
+      "protected_violations": [],
+      "preflight": {
+        "exit_code": null,
+        "status": "not_applicable",
+        "reason": "Author selected the existing short/direct workflow; no structured project configured."
+      },
+      "release": {
+        "exit_code": null,
+        "status": "not_applicable",
+        "reason": "Author selected the existing short/direct workflow; no structured project configured."
+      },
+      "planning_evidence_control_files": 2,
+      "planning_evidence_control_bytes": 6145,
+      "reading_words": 416
+    },
+    {
+      "trial": "W03",
+      "workflow": "full",
+      "protected_violations": [],
+      "preflight": {
+        "exit_code": 0,
+        "stdout": "Preflight: PASS; 0 errors, 0 warnings.\nSemantic support, completeness, calculations, and visual quality require the recorded human/agent reviews.\n",
+        "stderr": ""
+      },
+      "release": {
+        "exit_code": 0,
+        "stdout": "Release controls: PASS; 0 errors, 0 warnings.\nSemantic support, completeness, calculations, and visual quality require the recorded human/agent reviews.\n",
+        "stderr": ""
+      },
+      "planning_evidence_control_files": 19,
+      "planning_evidence_control_bytes": 72044,
+      "reading_words": 2239
+    },
+    {
+      "trial": "W04",
+      "workflow": "compact",
+      "protected_violations": [],
+      "preflight": {
+        "exit_code": 0,
+        "stdout": "Preflight: PASS; 0 errors, 0 warnings.\nSemantic support, completeness, calculations, and visual quality require the recorded human/agent reviews.\n",
+        "stderr": ""
+      },
+      "release": {
+        "exit_code": 0,
+        "stdout": "Release controls: PASS; 0 errors, 0 warnings.\nSemantic support, completeness, calculations, and visual quality require the recorded human/agent reviews.\n",
+        "stderr": ""
+      },
+      "planning_evidence_control_files": 7,
+      "planning_evidence_control_bytes": 37224,
+      "reading_words": 2256
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "mode": "explain",
+  "title": "Executive-brief writing: clear decisions from R&D evidence",
+  "workflow": "compact",
+  "author": "",
+  "lang": "en-US",
+  "depth": "standard",
+  "structure": "flexible",
+  "approval_policy": "adaptive",
+  "gates": [],
+  "formats": [
+    "pdf"
+  ],
+  "pdf_engine": "pdflatex",
+  "reader_test_required": true,
+  "pdf_header": "assets/pdf-header.tex"
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "P01",
+    "description": "First reader found production vocabulary hard to translate into sponsor choice",
+    "severity": "minor",
+    "status": "resolved",
+    "disposition": "Clarified the affected paragraph; new unprimed reader recovered the practical distinction. Original response preserved in qa/first-build."
+  }
+]

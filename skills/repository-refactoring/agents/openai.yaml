@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repository Refactoring"
+  short_description: "Preserve capabilities through architecture migrations"
+  default_prompt: "Use $repository-refactoring to migrate or audit this repository with explicit capability ownership and baseline-to-target behavioral evidence."

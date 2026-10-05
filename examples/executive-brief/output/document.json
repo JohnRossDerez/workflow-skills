@@ -1,0 +1,3986 @@
+{
+  "blocks": [
+    {
+      "t": "Para",
+      "c": [
+        {
+          "t": "Str",
+          "c": "The"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Code",
+          "c": [
+            [
+              "",
+              [],
+              []
+            ],
+            "executive-brief-writing"
+          ]
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "skill"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "helps"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "an"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "agent"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "turn"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "R&D"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "evidence"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "into"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "concise"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "explanation,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "decision"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "brief"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "recommendation"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "for"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "mostly"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "nontechnical"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sponsor."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "It"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "brings"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "answer"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "consequences"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "forward"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "while"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "preserving"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "uncertainty"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "that"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "could"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "change"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "decision."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Specialist"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "detail"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "can"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sit"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "in"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "an"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "appendix"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "linked"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reference."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Span",
+          "c": [
+            [
+              "",
+              [],
+              []
+            ],
+            [
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[1]"
+                    }
+                  ],
+                  [
+                    "#ref-S01",
+                    ""
+                  ]
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Header",
+      "c": [
+        2,
+        [
+          "what-changes-in-the-writing",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Str",
+            "c": "What"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "changes"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "in"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "the"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "writing"
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Para",
+      "c": [
+        {
+          "t": "Str",
+          "c": "The"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "author"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "starts"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "with"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sponsor’s"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "question"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "selects"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "support"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "needed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "to"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "answer"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "it."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "After"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "assembling"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "brief,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "an"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "editorial"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "pass"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "locates"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reading"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "problems"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "such"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "as"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "stacked"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "abstractions"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "an"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "unexplained"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "connection."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Edits"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "vary"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "pace"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "where"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "argument"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "calls"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "for"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "it"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "recheck"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "changed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "meaning"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "against"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sources."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "The"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "skill"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "does"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "prescribe"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "new"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "tone"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "every"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sentence"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "use"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sentence-length"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "scores"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "as"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "quality"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "target."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Span",
+          "c": [
+            [
+              "",
+              [],
+              []
+            ],
+            [
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[1]"
+                    }
+                  ],
+                  [
+                    "#ref-S01",
+                    ""
+                  ]
+                ]
+              },
+              {
+                "t": "Str",
+                "c": ";"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[2]"
+                    }
+                  ],
+                  [
+                    "#ref-S06",
+                    ""
+                  ]
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Para",
+      "c": [
+        {
+          "t": "Str",
+          "c": "A"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "short"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "low-risk"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "brief"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "can"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "use"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "one"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "manuscript"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "concise"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "evidence"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "notes."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "When"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sources"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "change"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "exports"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "recur,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "managed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "path"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "adds"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reader"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "brief,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "plan"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "evidence"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "records"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "to"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "track"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reviews."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "A"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "full"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "dependency"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "graph"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "tracks"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "relationships"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "for"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "substantial"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "coordination;"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "technical"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "subject"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "matter"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "alone"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "does"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "require"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "it."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "One"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "lead"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "author"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "keeps"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "responsibility"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "for"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "complete"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "brief."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Span",
+          "c": [
+            [
+              "",
+              [],
+              []
+            ],
+            [
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[1]"
+                    }
+                  ],
+                  [
+                    "#ref-S01",
+                    ""
+                  ]
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Header",
+      "c": [
+        2,
+        [
+          "what-the-evidence-supports",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Str",
+            "c": "What"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "the"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "evidence"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "supports"
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Para",
+      "c": [
+        {
+          "t": "Str",
+          "c": "A"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "bounded"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "comparison"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "included"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "two"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "executive"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "briefs"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "two"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "technical"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "papers."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Initial"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "executive"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "drafts"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "needed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "clearer"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "release"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "scope"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "evidence"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "allocation."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "After"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "clarification"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "genuine"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "source"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "correction,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "final"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "independent"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reviewers"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "found"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "no"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "material"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "factual"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "defect;"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "fresh"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "readers"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "recovered"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "message"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "limits."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "One"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "executive"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "case"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "used"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "direct"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "drafting,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "other"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "managed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "production"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "with"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "compact"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "planning."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "These"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "were"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "agent-based"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reviews"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reader"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "checks,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "tests"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "with"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "intended"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "human"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "readers."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "These"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "observations"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "establish"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "feasibility"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "for"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "that"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "task,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "without"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "establishing"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "average"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "quality"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "savings."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Span",
+          "c": [
+            [
+              "",
+              [],
+              []
+            ],
+            [
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[3]"
+                    }
+                  ],
+                  [
+                    "#ref-S03",
+                    ""
+                  ]
+                ]
+              },
+              {
+                "t": "Str",
+                "c": ";"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[4]"
+                    }
+                  ],
+                  [
+                    "#ref-S04",
+                    ""
+                  ]
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Para",
+      "c": [
+        {
+          "t": "Str",
+          "c": "The"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "helper"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "suite"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "passed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "64"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "checks"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "of"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "structure"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "freshness."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Those"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "checks"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "do"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "establish"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "recommendation"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "truth."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "The"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "final"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "wording"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "retained"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "direct"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "path"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "after"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "comparison;"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "that"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "wording"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "change"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "was"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "separate"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "author"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "trial."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "The"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "comparison"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "delivered"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Markdown"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "did"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "test"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "PDF"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "appearance."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "The"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "prose-editing"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "revision"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "this"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "PDF"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "are"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "subsequent"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "demonstrations,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "additions"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "to"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "that"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "trial."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Span",
+          "c": [
+            [
+              "",
+              [],
+              []
+            ],
+            [
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[5]"
+                    }
+                  ],
+                  [
+                    "#ref-S05",
+                    ""
+                  ]
+                ]
+              },
+              {
+                "t": "Str",
+                "c": ";"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[3]"
+                    }
+                  ],
+                  [
+                    "#ref-S03",
+                    ""
+                  ]
+                ]
+              },
+              {
+                "t": "Str",
+                "c": ";"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[2]"
+                    }
+                  ],
+                  [
+                    "#ref-S06",
+                    ""
+                  ]
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "Header",
+      "c": [
+        2,
+        [
+          "a-proportionate-first-use",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Str",
+            "c": "A"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "proportionate"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "first"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "use"
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Para",
+      "c": [
+        {
+          "t": "Str",
+          "c": "Try"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "it"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "on"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "next"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reviewed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "R&D"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "update"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "using"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "an"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "existing"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "evidence"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "packet"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sponsor’s"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "question."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Start"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "direct;"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "add"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "managed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "controls"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "when"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "changing"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "evidence"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "warrants"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "them."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Before"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "circulation,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "verify"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "material"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "claims,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "ask"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "a"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "fresh"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reader"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "to"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "explain"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "message"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "caveats,"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "inspect"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "rendered"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "pages."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "This"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "proposed"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "first"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "use"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "commits"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "no"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "budget"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "or"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "staffing."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Whether"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "the"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "new"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "editorial"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "pass"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "improves"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "reading"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "across"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "topics"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "and"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sponsors"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "remains"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "untested."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Span",
+          "c": [
+            [
+              "",
+              [],
+              []
+            ],
+            [
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[1]"
+                    }
+                  ],
+                  [
+                    "#ref-S01",
+                    ""
+                  ]
+                ]
+              },
+              {
+                "t": "Str",
+                "c": ";"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[6]"
+                    }
+                  ],
+                  [
+                    "#ref-S02",
+                    ""
+                  ]
+                ]
+              },
+              {
+                "t": "Str",
+                "c": ";"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Link",
+                "c": [
+                  [
+                    "",
+                    [],
+                    []
+                  ],
+                  [
+                    {
+                      "t": "Str",
+                      "c": "[2]"
+                    }
+                  ],
+                  [
+                    "#ref-S06",
+                    ""
+                  ]
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "t": "RawBlock",
+      "c": [
+        "latex",
+        "\\newpage"
+      ]
+    },
+    {
+      "t": "Header",
+      "c": [
+        3,
+        [
+          "evidence-notes",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Str",
+            "c": "Evidence"
+          },
+          {
+            "t": "Space"
+          },
+          {
+            "t": "Str",
+            "c": "notes"
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Para",
+      "c": [
+        {
+          "t": "Str",
+          "c": "Local"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "sources"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "are"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "archived"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "with"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "this"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "brief."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "Instructions"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "establish"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "intended"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "behavior;"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "evaluation"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "records"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "establish"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "bounded"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "observations."
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "These"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "related"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "project"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "artifacts"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "are"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "not"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "independent"
+        },
+        {
+          "t": "Space"
+        },
+        {
+          "t": "Str",
+          "c": "studies."
+        }
+      ]
+    },
+    {
+      "t": "Header",
+      "c": [
+        1,
+        [
+          "references",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Str",
+            "c": "References"
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Div",
+      "c": [
+        [
+          "ref-S01",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Para",
+            "c": [
+              {
+                "t": "Str",
+                "c": "[1]"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Finalized"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "executive-brief-writing"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "skill."
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Local"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "project"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "record,"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "archived"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "as"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "sources/S01-SKILL.md."
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Div",
+      "c": [
+        [
+          "ref-S06",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Para",
+            "c": [
+              {
+                "t": "Str",
+                "c": "[2]"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Located"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "prose-editing"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "contract."
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Local"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "instruction"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "revision,"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "archived"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "as"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "sources/S06-human-writing.md."
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Div",
+      "c": [
+        [
+          "ref-S03",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Para",
+            "c": [
+              {
+                "t": "Str",
+                "c": "[3]"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Writing"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "workflow"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "evaluation"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "and"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "limitations."
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Local"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "project"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "record,"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "archived"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "as"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "sources/S03-RESULTS.md."
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Div",
+      "c": [
+        [
+          "ref-S04",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Para",
+            "c": [
+              {
+                "t": "Str",
+                "c": "[4]"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Final"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "document"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "review"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "and"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "control"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "outcomes."
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Local"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "project"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "record,"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "archived"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "as"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "sources/S04-final-summary.json."
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Div",
+      "c": [
+        [
+          "ref-S05",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Para",
+            "c": [
+              {
+                "t": "Str",
+                "c": "[5]"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Helper"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "regression"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "summary."
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Local"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "project"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "record,"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "archived"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "as"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "sources/S05-summary.json."
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "t": "Div",
+      "c": [
+        [
+          "ref-S02",
+          [],
+          []
+        ],
+        [
+          {
+            "t": "Para",
+            "c": [
+              {
+                "t": "Str",
+                "c": "[6]"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Executive"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "reading"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "and"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "review"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "contract."
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "Local"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "project"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "record,"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "archived"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "as"
+              },
+              {
+                "t": "Space"
+              },
+              {
+                "t": "Str",
+                "c": "sources/S02-writing-and-figures.md."
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "pandoc-api-version": [
+    1,
+    17,
+    3
+  ],
+  "meta": {
+    "title": {
+      "t": "MetaString",
+      "c": "Executive-brief writing: clear decisions from R&D evidence"
+    }
+  }
+}

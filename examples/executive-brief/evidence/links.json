@@ -1,0 +1,90 @@
+[
+  {
+    "id": "E01",
+    "claim_id": "C01",
+    "source_id": "S01",
+    "locator": "Skill description",
+    "excerpt": "concise, evidence-grounded briefs for mostly nontechnical executives",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E02",
+    "claim_id": "C02",
+    "source_id": "S01",
+    "locator": "Start or resume",
+    "excerpt": "For a short or low-risk brief, work directly with proportional evidence notes",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E03",
+    "claim_id": "C03",
+    "source_id": "S01",
+    "locator": "Start or resume",
+    "excerpt": "Length, technical complexity and multiple output formats alone do not require a graph",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E04",
+    "claim_id": "C04",
+    "source_id": "S03",
+    "locator": "Actual executions table",
+    "excerpt": "Two-task/two-repetition breadth and allocation to engineering families unclear",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E05",
+    "claim_id": "C05",
+    "source_id": "S04",
+    "locator": "Final review aggregate, including W01/W02",
+    "excerpt": "\"final_independent_semantic\": \"4/4 no material defect\"",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E06",
+    "claim_id": "C06",
+    "source_id": "S03",
+    "locator": "Interpretation and limits",
+    "excerpt": "Markdown-only cases do not establish rendered PDF/Word quality.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E07",
+    "claim_id": "C07",
+    "source_id": "S03",
+    "locator": "Changes and use cases",
+    "excerpt": "It is not an additional author trial.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E08",
+    "claim_id": "C08",
+    "source_id": "S06",
+    "locator": "Located prose-editing pass",
+    "excerpt": "After assembly, read a paragraph in its surrounding argument before editing individual sentences.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected the editing contract and its nearby restrictions; design claim only, no effectiveness claim."
+  }
+]

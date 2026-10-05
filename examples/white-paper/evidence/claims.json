@@ -1,0 +1,119 @@
+[
+  {
+    "id": "C01",
+    "text": "Ordinary papers use compact planning",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "Ordinary papers use compact planning"
+  },
+  {
+    "id": "C02",
+    "text": "The evidence ledger separates sources, claims and passage links.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "The evidence ledger separates sources, claims and passage links."
+  },
+  {
+    "id": "C03",
+    "text": "empty conditional registers are allowed.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "empty conditional registers are allowed."
+  },
+  {
+    "id": "C04",
+    "text": "Technical complexity, length and multiple export formats alone do not justify the graph.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "Technical complexity, length and multiple export formats alone do not justify the graph."
+  },
+  {
+    "id": "C05",
+    "text": "Requested formats are staged before output replacement",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "Requested formats are staged before output replacement"
+  },
+  {
+    "id": "C06",
+    "text": "Changed sources or output bytes prevent an old review from satisfying current release controls.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "Changed sources or output bytes prevent an old review from satisfying current release controls."
+  },
+  {
+    "id": "C07",
+    "text": "A structural validator supplements those judgments.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "A structural validator supplements those judgments."
+  },
+  {
+    "id": "C08",
+    "text": "The baseline executive author legitimately chose its direct route",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "The baseline executive author legitimately chose its direct route"
+  },
+  {
+    "id": "C09",
+    "text": "Independent initial review found a provenance error in the compact technical paper",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "Independent initial review found a provenance error in the compact technical paper"
+  },
+  {
+    "id": "C10",
+    "text": "All managed cases rejected stale controls after the tracked source changed",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "All managed cases rejected stale controls after the tracked source changed"
+  },
+  {
+    "id": "C11",
+    "text": "The evaluation delivered Markdown, so it did not establish PDF or Word visual fidelity.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "The evaluation delivered Markdown, so it did not establish PDF or Word visual fidelity."
+  },
+  {
+    "id": "C12",
+    "text": "One case per audience and condition cannot establish general effectiveness",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "One case per audience and condition cannot establish general effectiveness"
+  },
+  {
+    "id": "C13",
+    "text": "the author performs a located prose-editing pass",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "the author performs a located prose-editing pass"
+  }
+]

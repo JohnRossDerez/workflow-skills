@@ -1,0 +1,74 @@
+[
+  {
+    "id": "C01",
+    "text": "a concise explanation, decision brief or recommendation for a mostly nontechnical sponsor",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "a concise explanation, decision brief or recommendation for a mostly nontechnical sponsor"
+  },
+  {
+    "id": "C02",
+    "text": "A short or low-risk brief can use one manuscript and concise evidence notes.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "A short or low-risk brief can use one manuscript and concise evidence notes."
+  },
+  {
+    "id": "C03",
+    "text": "technical subject matter alone does not require it",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "technical subject matter alone does not require it"
+  },
+  {
+    "id": "C04",
+    "text": "Initial executive drafts needed clearer release scope and evidence allocation.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "Initial executive drafts needed clearer release scope and evidence allocation."
+  },
+  {
+    "id": "C05",
+    "text": "final independent reviewers found no material factual defect",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "final independent reviewers found no material factual defect"
+  },
+  {
+    "id": "C06",
+    "text": "The comparison delivered Markdown and did not test PDF appearance.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "The comparison delivered Markdown and did not test PDF appearance."
+  },
+  {
+    "id": "C07",
+    "text": "that wording change was not a separate author trial",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "that wording change was not a separate author trial"
+  },
+  {
+    "id": "C08",
+    "text": "The skill does not prescribe a new tone every sentence or use sentence-length scores as a quality target.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "The skill does not prescribe a new tone every sentence or use sentence-length scores as a quality target."
+  }
+]

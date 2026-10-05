@@ -1,0 +1,112 @@
+[
+  {
+    "id": "S01",
+    "title": "Finalized white-paper-writing skill",
+    "reference": "Finalized white-paper-writing skill. Local project record, archived as sources/S01-SKILL.md.",
+    "url_or_path": "sources/S01-SKILL.md",
+    "archive_path": "sources/S01-SKILL.md",
+    "source_type": "internal_document",
+    "origin_id": "O-DESIGN",
+    "limitations": "Instructions establish intended design, not effectiveness."
+  },
+  {
+    "id": "S02",
+    "title": "Compact workflow contract",
+    "reference": "Compact workflow contract. Local project record, archived as sources/S02-compact-workflow.md.",
+    "url_or_path": "sources/S02-compact-workflow.md",
+    "archive_path": "sources/S02-compact-workflow.md",
+    "source_type": "internal_document",
+    "origin_id": "O-DESIGN",
+    "limitations": "Planning guidance; its benefits depend on execution."
+  },
+  {
+    "id": "S03",
+    "title": "Writing workflow evaluation and limitations",
+    "reference": "Writing workflow evaluation and limitations. Local project record, archived as sources/S03-RESULTS.md.",
+    "url_or_path": "sources/S03-RESULTS.md",
+    "archive_path": "sources/S03-RESULTS.md",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "One author case per audience/condition; observational project appraisal, not independent replication."
+  },
+  {
+    "id": "S04",
+    "title": "Build implementation",
+    "reference": "Build implementation. Local project record, archived as sources/S04-build_report.py.",
+    "url_or_path": "sources/S04-build_report.py",
+    "archive_path": "sources/S04-build_report.py",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Source inspection establishes implemented checks, not filesystem-wide atomic publication."
+  },
+  {
+    "id": "S05",
+    "title": "Helper regression summary",
+    "reference": "Helper regression summary. Local project record, archived as sources/S05-summary.json.",
+    "url_or_path": "sources/S05-summary.json",
+    "archive_path": "sources/S05-summary.json",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Fixture reviews test control behavior, not factual or reader quality."
+  },
+  {
+    "id": "S06",
+    "title": "Final document review and control outcomes",
+    "reference": "Final document review and control outcomes. Local project record, archived as sources/S06-final-summary.json.",
+    "url_or_path": "sources/S06-final-summary.json",
+    "archive_path": "sources/S06-final-summary.json",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Root aggregation of actual project reviews; limited to those cases."
+  },
+  {
+    "id": "S07",
+    "title": "Production and actual-review contract",
+    "reference": "Production and actual-review contract. Local project record, archived as sources/S07-production-and-qa.md.",
+    "url_or_path": "sources/S07-production-and-qa.md",
+    "archive_path": "sources/S07-production-and-qa.md",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Review requirements do not certify that reviewers reason correctly."
+  },
+  {
+    "id": "S08",
+    "title": "Technical audience profiles",
+    "reference": "Technical audience profiles. Local project record, archived as sources/S08-profiles.md.",
+    "url_or_path": "sources/S08-profiles.md",
+    "archive_path": "sources/S08-profiles.md",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Audience design guidance, not reader-success evidence."
+  },
+  {
+    "id": "S09",
+    "title": "Content fingerprints and parsed document implementation",
+    "reference": "Content fingerprints and parsed document implementation. Local project record, archived as sources/S09-report_common.py.",
+    "url_or_path": "sources/S09-report_common.py",
+    "archive_path": "sources/S09-report_common.py",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Structural implementation, not semantic certification."
+  },
+  {
+    "id": "S10",
+    "title": "Actual review binding implementation",
+    "reference": "Actual review binding implementation. Local project record, archived as sources/S10-record_review.py.",
+    "url_or_path": "sources/S10-record_review.py",
+    "archive_path": "sources/S10-record_review.py",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Checks notes and fingerprints; it cannot establish truthful attestations."
+  },
+  {
+    "id": "S11",
+    "title": "Located prose-editing contract",
+    "reference": "Located prose-editing contract. Local instruction revision, archived as sources/S11-human-writing.md.",
+    "url_or_path": "sources/S11-human-writing.md",
+    "archive_path": "sources/S11-human-writing.md",
+    "source_type": "internal_document",
+    "origin_id": "O-DESIGN",
+    "limitations": "Subsequent instruction revision, not exercised in the frozen comparison; benefits remain to be evaluated."
+  }
+]

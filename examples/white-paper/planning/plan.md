@@ -1,0 +1,5 @@
+# Document plan
+
+Lead with purpose and supported scope. Explain the problem and proportionate working model before mechanisms; connect observations to adoption limits. Technical path: abstract, communication problem, records, production/review, bounded evaluation, adoption boundaries. Executive path: purpose, sponsor output, demonstration and limits, proposed first use. Distinguish design evidence from outcome evidence and the current PDF demonstration from prior Markdown comparison. Preserve material caveats in the main path. Sources are an inspectable end section. No full graph or parallel drafting is warranted. Root owns both manuscripts; delegate independent semantic and fresh-reader checks only.
+
+Current revision: make actor/action relations concrete, use the actual correction as an example, distinguish subsequent prose instructions from the frozen trial. Preserve numerical values, counted-file scope and all limits. Add the editing mechanism at audience-appropriate depth; avoid a new representation or prose metric target.

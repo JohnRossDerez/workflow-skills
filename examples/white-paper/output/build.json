@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "status": "built",
+  "content_digest": "6e940ad77c1785a4270369a91f48d0389009e20fc48cbc9764c78163be02fe51",
+  "inputs": {
+    "assets/pdf-header.tex": "eeab093c4d70736fcfa545753a3181991fd85b611de824b2d77ddfcff5418611",
+    "evidence/calculations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "evidence/claims.json": "ad090a4c4fb92b15d4a6d67b98028b8947f60a8cc1fb81867151d4504be1f492",
+    "evidence/links.json": "2ad6c3c387563c0df00fe9c53b2c5464b837435e2cfa41423a3548457acb3710",
+    "evidence/numbers.json": "50e99d820846e46aad87999e2ee40351d84d296f4f36ef26695ac0e43c098c24",
+    "evidence/sources.json": "7aad9db7e488e1df4bda8ef169b692ecafc6ebf18748226195bf5683e60d9a47",
+    "figures/register.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "planning/brief.md": "1a0264312da094ee0f11c616f1f36635176e361c271fdc8db4f96e19aee419ba",
+    "planning/plan.md": "6ce753259143c6de895677aefeae6198e73e27a39b19cd76d73a7fca4583d8c3",
+    "project.json": "36bef944a2903618ad6b0092f672fb1d471f6996a8a47e7c154304a7a136709e",
+    "report.md": "07afbfb4a202864d24fd28ab836c25d7d0c38fe2964f00a0750f8f457bd9d576",
+    "sources/S01-SKILL.md": "005333f9f128c78afccbc8a348716215662ab102a5ec8b8540c1675d1645bcab",
+    "sources/S02-compact-workflow.md": "6489aea65cbb751d365b6c0f9e68a14c70501bd5479e3f43ac68229e36d22c31",
+    "sources/S03-RESULTS.md": "b25311c93bf6fcd08672e60d8e8314c4613610616ca82644e9c6665afd3c80e4",
+    "sources/S04-build_report.py": "5453ef14e24c0c8eeab487648a0c3e07e5386ef9961c8e55da54b856d7b8f518",
+    "sources/S05-summary.json": "946eb59f995ccf8ffd3af53cc10a1a33ab2224dcca636f0b5d0703462fddbf3a",
+    "sources/S06-final-summary.json": "76c443763dbeeac00fd1dfc7ea5241d4f26c4d4c4aa7d37d63ab792752a9a375",
+    "sources/S07-production-and-qa.md": "f1c7e1bd754979ce7c896dc39b4375b060db8f1dc8a5a8ad4b27612eba2ee8fc",
+    "sources/S08-profiles.md": "5d6cc1ea1aea846c0f77d4d17b3832c0055e25a8c0b19961bdc732f8507c5e79",
+    "sources/S09-report_common.py": "797f1b91db8b15ec987ed59cd836f638eb3cc815295910a87b44b684f5c63474",
+    "sources/S10-record_review.py": "79e940a731f85786c5fbdb85e1be09f394dc8799dc32dea9b09688db089a29f8",
+    "sources/S11-human-writing.md": "ff3c8f05444769a1e6668d27050f9c54a38f7dbe3c8f4fb9a613eff27a572002"
+  },
+  "built_at": "2026-10-02T06:13:03.287379+00:00",
+  "pandoc": "pandoc 2.0.6",
+  "citations": [
+    "S01",
+    "S02",
+    "S03",
+    "S06",
+    "S11",
+    "S08",
+    "S07",
+    "S04",
+    "S09",
+    "S10",
+    "S05"
+  ],
+  "logs": [
+    {
+      "format": "pdf",
+      "returncode": 0,
+      "stderr": ""
+    }
+  ],
+  "artifacts": {
+    "output/report.pdf": "be0d6836b91d29a65264cd4d4b0b76ddca70b0882b73438e3d83235fb1ed82b9"
+  },
+  "toolchain": {
+    "report_common.py": "797f1b91db8b15ec987ed59cd836f638eb3cc815295910a87b44b684f5c63474",
+    "build_report.py": "5453ef14e24c0c8eeab487648a0c3e07e5386ef9961c8e55da54b856d7b8f518"
+  }
+}

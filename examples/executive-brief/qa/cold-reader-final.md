@@ -1,0 +1,3 @@
+# Final fresh-reader disposition
+
+PASS: actual unprimed response retained in cold-reader-final-response.md. The reader received only audience, commission and current PDF text, without author plans, earlier drafts or review history. Root compared the response with the private reader brief and source boundaries: offer, mechanisms, supported observations, review population, limits and proposed first use were recovered; no unresolved material misunderstanding. Minor workflow vocabulary, correction background and citation friction remain, without changing the interpretation. This is an agent-only comprehension appraisal, not human preference or general effectiveness. Requested model gpt-6-sol/medium; backend identity not independently attested.

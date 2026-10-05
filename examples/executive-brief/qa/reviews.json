@@ -1,0 +1,54 @@
+[
+  {
+    "kind": "evidence",
+    "status": "pass",
+    "reviewer": "/root/prose_reports_semantic",
+    "method": "independent",
+    "notes_file": "qa/independent-evidence.md",
+    "notes_sha256": "bfddd7636571a7867834db0131b7cd7716bc3a3b0f1558edcabfef79b4859100",
+    "content_digest": "a4bff2015d007a5c6c46cb35ade5ed3ce00d660776b7e48a5bc980419b2f45d8",
+    "artifacts": {
+      "output/report.pdf": "6ebbd458ff531a0c2995b4ddd1829bc8626fb4a654373f288821d49a4c6f6305"
+    },
+    "checked_at": "2026-10-02T06:12:34.946281+00:00"
+  },
+  {
+    "kind": "editorial",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "self",
+    "notes_file": "qa/editorial-review.md",
+    "notes_sha256": "97017d836adce29282ec49b7d718557aed2e867252afb3115fac53a0ed903c24",
+    "content_digest": "a4bff2015d007a5c6c46cb35ade5ed3ce00d660776b7e48a5bc980419b2f45d8",
+    "artifacts": {
+      "output/report.pdf": "6ebbd458ff531a0c2995b4ddd1829bc8626fb4a654373f288821d49a4c6f6305"
+    },
+    "checked_at": "2026-10-02T06:12:35.004745+00:00"
+  },
+  {
+    "kind": "cold_reader",
+    "status": "pass",
+    "reviewer": "/root/prose_exec_reader_final",
+    "method": "independent",
+    "notes_file": "qa/cold-reader-final.md",
+    "notes_sha256": "5dc85bc8fcf64cbf3c7227914dce6038d62163672ce312c076fcf4d32cff7647",
+    "content_digest": "a4bff2015d007a5c6c46cb35ade5ed3ce00d660776b7e48a5bc980419b2f45d8",
+    "artifacts": {
+      "output/report.pdf": "6ebbd458ff531a0c2995b4ddd1829bc8626fb4a654373f288821d49a4c6f6305"
+    },
+    "checked_at": "2026-10-02T06:12:35.062886+00:00"
+  },
+  {
+    "kind": "visual:pdf",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "rendered",
+    "notes_file": "qa/pdf-review.md",
+    "notes_sha256": "7c86128c3675524c607d784f6a313130599fc47c76317347a72a87da4313293e",
+    "content_digest": "a4bff2015d007a5c6c46cb35ade5ed3ce00d660776b7e48a5bc980419b2f45d8",
+    "artifacts": {
+      "output/report.pdf": "6ebbd458ff531a0c2995b4ddd1829bc8626fb4a654373f288821d49a4c6f6305"
+    },
+    "checked_at": "2026-10-02T06:12:35.121452+00:00"
+  }
+]

@@ -1,0 +1,1 @@
+Produce a technical white paper for Python/AI engineers about the finalized white-paper-writing skill itself. Explain what it offers, how it works at the appropriate depth, what its actual evaluation establishes and what remains uncertain. PDF requested. Do not invent commitments, savings or general effectiveness.

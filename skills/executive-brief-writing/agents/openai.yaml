@@ -1,0 +1,4 @@
+interface:
+  display_name: "Executive Brief Writing"
+  short_description: "Turn research into clear executive briefs"
+  default_prompt: "Use $executive-brief-writing to turn my research into a purpose-defined executive brief with a clear answer, implications, risks, and requested action."

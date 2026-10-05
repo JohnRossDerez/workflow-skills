@@ -1,0 +1,4 @@
+interface:
+  display_name: "White Paper Writing"
+  short_description: "Write rigorous internal technical white papers"
+  default_prompt: "Use $white-paper-writing to turn my evidence into an internal technical white paper with a purpose-first architecture, traceable claims, and verified deliverables."

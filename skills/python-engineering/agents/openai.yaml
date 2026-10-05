@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Engineering"
+  short_description: "Clear Python contracts, effects, and verification"
+  default_prompt: "Use $python-engineering to implement or review this Python change with explicit data flow and meaningful behavioral checks."

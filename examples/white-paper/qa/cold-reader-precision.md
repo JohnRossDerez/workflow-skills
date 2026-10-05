@@ -1,0 +1,3 @@
+# Final precision-version reader disposition
+
+PASS. A new unprimed agent read only the current PDF text and audience commission; actual response retained in cold-reader-precision-response.md. Root compared the response with the brief: offer, evidence ledger, registered build mechanics, four-case allocation, agent-based review population and all main limits recovered. No unresolved material misunderstanding. Minor page-break, record-label, helper-suite and graph-detail friction remain without changing interpretation. This is an agent-only local comprehension check, not human-reader preference or general improvement. Requested gpt-6-sol/medium; backend not independently attested.

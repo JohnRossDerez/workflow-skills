@@ -1,0 +1,1 @@
+Produce a concise executive brief for an R&D sponsor about the finalized executive-brief-writing skill itself. Explain what it offers, how it works at the appropriate depth, what its actual evaluation establishes and what remains uncertain. PDF requested. Do not invent commitments, savings or general effectiveness.

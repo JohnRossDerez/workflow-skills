@@ -1,0 +1,62 @@
+[
+  {
+    "id": "S01",
+    "title": "Finalized executive-brief-writing skill",
+    "reference": "Finalized executive-brief-writing skill. Local project record, archived as sources/S01-SKILL.md.",
+    "url_or_path": "sources/S01-SKILL.md",
+    "archive_path": "sources/S01-SKILL.md",
+    "source_type": "internal_document",
+    "origin_id": "O-DESIGN",
+    "limitations": "Final proportional wording includes a post-comparison direct-path clarification."
+  },
+  {
+    "id": "S02",
+    "title": "Executive reading and review contract",
+    "reference": "Executive reading and review contract. Local project record, archived as sources/S02-writing-and-figures.md.",
+    "url_or_path": "sources/S02-writing-and-figures.md",
+    "archive_path": "sources/S02-writing-and-figures.md",
+    "source_type": "internal_document",
+    "origin_id": "O-DESIGN",
+    "limitations": "Required behavior; it does not establish success on arbitrary briefs."
+  },
+  {
+    "id": "S03",
+    "title": "Writing workflow evaluation and limitations",
+    "reference": "Writing workflow evaluation and limitations. Local project record, archived as sources/S03-RESULTS.md.",
+    "url_or_path": "sources/S03-RESULTS.md",
+    "archive_path": "sources/S03-RESULTS.md",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "One author case per audience/condition; observational project appraisal, not independent replication."
+  },
+  {
+    "id": "S04",
+    "title": "Final document review and control outcomes",
+    "reference": "Final document review and control outcomes. Local project record, archived as sources/S04-final-summary.json.",
+    "url_or_path": "sources/S04-final-summary.json",
+    "archive_path": "sources/S04-final-summary.json",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Root aggregation of actual project reviews; limited to those cases."
+  },
+  {
+    "id": "S05",
+    "title": "Helper regression summary",
+    "reference": "Helper regression summary. Local project record, archived as sources/S05-summary.json.",
+    "url_or_path": "sources/S05-summary.json",
+    "archive_path": "sources/S05-summary.json",
+    "source_type": "internal_document",
+    "origin_id": "O-PROJECT-EVALUATION",
+    "limitations": "Fixture reviews test control behavior, not factual or reader quality."
+  },
+  {
+    "id": "S06",
+    "title": "Located prose-editing contract",
+    "reference": "Located prose-editing contract. Local instruction revision, archived as sources/S06-human-writing.md.",
+    "url_or_path": "sources/S06-human-writing.md",
+    "archive_path": "sources/S06-human-writing.md",
+    "source_type": "internal_document",
+    "origin_id": "O-DESIGN",
+    "limitations": "Subsequent instruction revision, not exercised in the frozen comparison; benefits remain to be evaluated."
+  }
+]

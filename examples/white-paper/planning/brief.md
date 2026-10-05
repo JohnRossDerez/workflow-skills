@@ -1,0 +1,5 @@
+# Reader brief
+
+Mode: explain. Audience: Python/AI engineers assessing the skill's design and evidence. Scope: finalized white-paper-writing itself; actual design and prior evaluation, with PDF output requested. No new effectiveness experiment. Deliverable: PDF, canonical Markdown retained. No invented author identity, organization, budget, savings or deadline.
+
+Attention: several minutes for the technical paper, a first-page scan for the executive brief. Prior knowledge: familiar with R&D, unfamiliar with these workflow records. Trust: inspectable implementation and bounded results. Likely misreading: controls or test counts establish truth/general effectiveness. Reader authority: assess a reversible adoption choice. Retain: explicit support and genuine current-version review matter; proportional planning remains optional by need. Voice: restrained professional explanation, no imitation or invented personal experience. No external research: primary implementation and local evaluation answer this commission.

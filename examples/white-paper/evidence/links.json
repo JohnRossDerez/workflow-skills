@@ -1,0 +1,145 @@
+[
+  {
+    "id": "E01",
+    "claim_id": "C01",
+    "source_id": "S01",
+    "locator": "Start or resume",
+    "excerpt": "For an ordinary technical paper, use the compact workflow",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E02",
+    "claim_id": "C02",
+    "source_id": "S02",
+    "locator": "Initialize and plan",
+    "excerpt": "Keep the shared source, claim and passage-link registers as the evidence ledger.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E03",
+    "claim_id": "C03",
+    "source_id": "S02",
+    "locator": "Initialize and plan",
+    "excerpt": "Empty conditional registers are valid.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E04",
+    "claim_id": "C04",
+    "source_id": "S01",
+    "locator": "Start or resume",
+    "excerpt": "Length, technical complexity and multiple output formats alone do not require a graph.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E05",
+    "claim_id": "C05",
+    "source_id": "S04",
+    "locator": "build: staged output publication",
+    "excerpt": "# Only generated output paths are replaced, after every requested format succeeds.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E06",
+    "claim_id": "C06",
+    "source_id": "S07",
+    "locator": "Record actual checks",
+    "excerpt": "A correction changes tracked content and invalidates prior records",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E07",
+    "claim_id": "C07",
+    "source_id": "S07",
+    "locator": "What automated checks establish",
+    "excerpt": "It does not prove search completeness, semantic entailment",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E08",
+    "claim_id": "C08",
+    "source_id": "S03",
+    "locator": "Actual executions",
+    "excerpt": "The baseline executive skill explicitly allowed its short/direct path",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E09",
+    "claim_id": "C09",
+    "source_id": "S03",
+    "locator": "Actual executions table and dispositions",
+    "excerpt": "Assigned writing instructions described as shared raw-input evidence",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E10",
+    "claim_id": "C10",
+    "source_id": "S03",
+    "locator": "Consequential correction and actual checks",
+    "excerpt": "All three managed projects rejected old build/review freshness",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E11",
+    "claim_id": "C11",
+    "source_id": "S03",
+    "locator": "Interpretation and limits",
+    "excerpt": "Markdown-only cases do not establish rendered PDF/Word quality.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E12",
+    "claim_id": "C12",
+    "source_id": "S03",
+    "locator": "Interpretation and limits",
+    "excerpt": "One execution per audience/condition cannot establish average effectiveness",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+  },
+  {
+    "id": "E13",
+    "claim_id": "C13",
+    "source_id": "S11",
+    "locator": "Located prose-editing pass",
+    "excerpt": "After assembly, read a paragraph in its surrounding argument before editing individual sentences.",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root source inspection",
+    "assessment": "Inspected the editing contract and its nearby restrictions; design claim only, no effectiveness claim."
+  }
+]

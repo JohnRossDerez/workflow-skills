@@ -1,0 +1,16 @@
+[
+  {
+    "id": "P01",
+    "description": "First reader found case allocation hard to reconcile",
+    "severity": "material",
+    "status": "resolved",
+    "disposition": "Clarified the affected paragraph; new unprimed reader recovered the practical distinction. Original response preserved in qa/first-build."
+  },
+  {
+    "id": "P02",
+    "description": "Remaining page-break, record-label, helper-suite and graph-detail friction reported by final reader",
+    "severity": "minor",
+    "status": "accepted",
+    "disposition": "Reader accurately recovered meaning and case boundaries. No further semantic or layout edit justified in this bounded self-description; limitations retained in actual reader response."
+  }
+]

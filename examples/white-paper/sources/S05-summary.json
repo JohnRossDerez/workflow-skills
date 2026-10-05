@@ -1,0 +1,16 @@
+{
+  "white-paper-writing": {
+    "full_regressions": 48,
+    "compact_boundary_tests": 16,
+    "total": 64,
+    "skips": 0
+  },
+  "executive-brief-writing": {
+    "full_regressions": 48,
+    "compact_boundary_tests": 16,
+    "total": 64,
+    "skips": 0
+  },
+  "local_links": "pass",
+  "limitations": "Synthetic test review attestations establish controls, not actual reader comprehension or factual truth."
+}
