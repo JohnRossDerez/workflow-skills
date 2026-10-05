@@ -43,7 +43,7 @@ Keep this semantic. Incidental function calls and directory names are not separa
 | Outcome / risk | Check and input/state partition | Revision / input identity | Observed outcome | Limitation or next action |
 | --- | --- | --- | --- | --- |
 
-Observe the consumed result and important forbidden effects. Show that configuration reaches the target behavior and that artifacts reach the intended consumer. Label historical reuse, boundary substitutes, and real-runtime execution accurately.
+For each check, name the migration defect it would expose, the input/state that reaches it, and the required consumer observation. Observe the consumed result and important forbidden effects. Show that configuration reaches the target behavior and that artifacts reach the intended consumer. Label historical reuse, boundary substitutes, and real-runtime execution accurately. An import check or completed mapping row cannot substitute for the behavior it leaves unexercised.
 
 ## Ownership and operations, when affected
 

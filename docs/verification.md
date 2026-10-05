@@ -5,9 +5,13 @@ Run the writing helper suites from the repository root. They use Python's standa
 ```bash
 python3 skills/white-paper-writing/scripts/test_report_workflow.py
 python3 skills/white-paper-writing/scripts/test_compact_workflow.py
+python3 skills/white-paper-writing/scripts/test_review_recording.py
 python3 skills/executive-brief-writing/scripts/test_report_workflow.py
 python3 skills/executive-brief-writing/scripts/test_compact_workflow.py
+python3 skills/executive-brief-writing/scripts/test_review_recording.py
 ```
+
+The review-recording suites use only the standard library. They exercise the actual recorder with a synthetic persisted build fixture: separate notes stay bound after journal appends, and journal path aliases are rejected without mutation. They do not establish rendering or semantic review quality. Without Pandoc, the full-workflow suites skip their tests and the compact suites run only initialization checks; report executed and skipped counts separately.
 
 The examples are managed compact projects. To check their records and current-artifact freshness:
 

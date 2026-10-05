@@ -23,7 +23,7 @@ Do not infer retirement from deletion or a cleaner replacement. Settle consequen
 | Behavioral flows | Are ordering, defaults, precedence, fallbacks, retries, state transitions, and artifact handoffs preserved or intentionally changed? |
 | Implementation dependencies | Which entry points, modules, configuration, schemas, models/prompts, storage, and external systems implement each flow? |
 
-Trace important capabilities vertically through all three perspectives. Split flows by adapter, asset, or mode when algorithms or ownership differ. An import graph misses semantic and runtime relationships; similar filenames do not prove equivalent behavior.
+Start with the required capability and its entry point, identify the responsible packages/modules and contracts, then descend into the functions and runtime dependencies needed to explain the migration. Trace important capabilities vertically through all three perspectives; these are views of the same behavior, not separate phases or required agents. Split flows by adapter, asset, or mode when algorithms or ownership differ. An import graph misses semantic and runtime relationships; similar filenames do not prove equivalent behavior.
 
 For a bounded extraction, one capability table with compact flow notes may suffice. For multiple capabilities or repositories, use [refactor-record.md](references/refactor-record.md) as the working record. Keep one authoritative mapping; diagrams can be views of it. Do not create a node for every function or duplicate Git history.
 
@@ -57,7 +57,7 @@ Use machine-readable graphs when repeated impact queries, cross-session resumpti
 
 ## Verify and finish
 
-Select focused contract and compatibility checks, meaningful baseline-output comparisons, and bounded integration/smoke checks through critical target entry points. Distinguish static validation, historical-result reuse, component checks, simulated wiring, and actual target execution. None is interchangeable evidence.
+Run required repository checks. For each claimed preserved or replaced capability, identify a specific behavior the migration could break, the input/state that exposes it, the affected target entry point, and the observation its consumer must receive. Reuse checks that establish that behavior; add checks for uncovered migration failures rather than for every moved function. For example, after extracting configuration handling, change the operator's live configuration and observe whether the target behavior consumes it; successful imports do not establish that contract. Distinguish static validation, historical-result reuse, component checks, simulated wiring, and actual target execution. None is interchangeable evidence.
 
 Review one coherent capability with its baseline-to-target contract, important modes, changed interfaces or diff, disposition, and consumer checks together. Reuse the canonical comparison rather than maintaining a separate review graph. Choose reading order for the capability and its dependencies; inspect shared policy and cross-slice joins explicitly. See [refactor-record.md](references/refactor-record.md) for a compact review view and a runnable extraction example.
 

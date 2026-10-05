@@ -16,6 +16,14 @@ For each material requirement, select the input or state distinctions that could
 
 These are examples, not universal policies. Missing-checkpoint behavior, batch failure handling, and reuse identity depend on the actual contract.
 
+## Make acceptance independent of the implementation appraisal
+
+Use existing repository checks. Propose a new check only with a specific violation, an executable way to expose it, and an observation that distinguishes correct from incorrect behavior. For a static rule, identify the prohibited pattern and legitimate exceptions before enforcing it. Semantic claims such as useful abstractions need located code and a demonstrated dependency problem; a quality score or completed checklist is insufficient.
+
+Report the command and observed result. When evidence must survive a handoff or later edits, identify the tested code with its revision and relevant dirty diff; a commit identifier alone does not identify uncommitted code. Reuse existing CI or protected acceptance checks when available. Do not introduce a runner, evidence schema, or workspace snapshot system without a specific execution or stale-result problem to solve.
+
+When a check fails, distinguish a code defect, an incorrect expectation, and an unavailable environment before changing anything. Correcting an expectation is legitimate when supported by the authoritative contract; reducing an assertion or adding an exclusion to accommodate the implementation is not sufficient justification. Preserve evidence of the failure and correction when it materially affects the conclusion.
+
 ## Exercise the seam that could fail
 
 Use real orchestration and internal state transitions with a bounded substitute at an expensive or unavailable external boundary. Inspect persisted outputs, resource identity, or meaningful return values. Call-count assertions can supplement these observations but seldom establish them alone.
@@ -37,6 +45,10 @@ Use a property when a stable invariant spans many inputs: normalization is idemp
 Use stateful sequences when earlier operations affect correctness, such as import followed by rollback, restart after publication, or cancellation during cleanup. Compare observable state against a small test-side model after consequential transitions. Include the important transition deliberately, record a reproducible seed or trace, and report limits such as absent shrinking. Generation is optional: a focused sequence or example can expose the same defect with less machinery.
 
 For checkpoint-to-export work, [the executable example](../assets/checkpoint-export/test_workflow.py) checks persisted state and resource ownership. Run it with its sibling `workflow.py`; it uses a CPU stand-in and does not establish real trainer or GPU behavior. Load it only when that handoff is relevant.
+
+## Check a concrete extension claim
+
+When a design is intended to support a known extension, trace that extension through the actual interfaces and identify which decisions would need to change. For example, if another provider is required, inspect whether adding it would spread vendor error handling into domain callers. An isolated implementation probe is useful only when an unresolved design choice warrants the work and it stays within the authorized scope. Do not invent future features to justify a maintainability exercise. Report the specific coupling found; file counts and a successful easy extension do not establish general maintainability.
 
 ## Limits
 

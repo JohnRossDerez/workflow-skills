@@ -25,7 +25,7 @@ class InitializationTests(unittest.TestCase):
             self.assertEqual(read_json(project / "project.json")["workflow"], "compact")
             expected = {"project.json", "report.md", "planning/brief.md", "planning/plan.md",
                         "qa/issues.json", "qa/reviews.json", *RECORDS.values()}
-            self.assertEqual({str(p.relative_to(project)) for p in project.rglob("*") if p.is_file()}, expected)
+            self.assertEqual({p.relative_to(project).as_posix() for p in project.rglob("*") if p.is_file()}, expected)
             self.assertFalse((project / "drafts").exists())
             self.assertFalse((project / "control").exists())
             before = self.snapshot(project)
