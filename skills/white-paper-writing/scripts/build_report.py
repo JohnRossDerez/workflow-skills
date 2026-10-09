@@ -30,7 +30,7 @@ def build(project: Path) -> dict:
         raise ValueError("cannot build an empty manuscript")
     output = project / "output"
     output.mkdir(exist_ok=True)
-    version = subprocess.run(["pandoc", "--version"], text=True, capture_output=True, check=True).stdout.splitlines()[0]
+    version = subprocess.run(["pandoc", "--version"], text=True, encoding="utf-8", capture_output=True, check=True).stdout.splitlines()[0]
     with tempfile.TemporaryDirectory(prefix="report_build_") as temporary:
         stage = Path(temporary)
         document = stage / "document.json"
@@ -54,7 +54,7 @@ def build(project: Path) -> dict:
                     command.append(f"--include-in-header={local_path(project, config['pdf_header'])}")
             elif fmt == "docx" and config.get("reference_doc"):
                 command.append(f"--reference-doc={local_path(project, config['reference_doc'])}")
-            result = subprocess.run(command, cwd=project, text=True, capture_output=True)
+            result = subprocess.run(command, cwd=project, text=True, encoding="utf-8", capture_output=True)
             logs.append({"format": fmt, "returncode": result.returncode, "stderr": result.stderr})
             if result.returncode:
                 raise RuntimeError(f"{fmt} build failed; previous outputs preserved:\n{result.stderr}")

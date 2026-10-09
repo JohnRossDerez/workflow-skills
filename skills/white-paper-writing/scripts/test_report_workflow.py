@@ -332,6 +332,16 @@ class ReportWorkflowTests(unittest.TestCase):
         self.assertIn("NOT_A_CITATION", text)
         self.assertEqual(read_json(self.project / "output/build.json")["citations"], ["S01"])
 
+    def test_unicode_manuscript_survives_markdown_and_docx_build(self):
+        sentence = "Jos\u00e9 compared caf\u00e9 forecasts."
+        path = self.project / "report.md"
+        path.write_text(path.read_text(encoding="utf-8") + "\n" + sentence + "\n", encoding="utf-8")
+        self.change("project.json", lambda config: config.update(formats=["md", "docx"]))
+        build(self.project)
+        self.assertIn(sentence, (self.project / "output/report.md").read_text(encoding="utf-8"))
+        with zipfile.ZipFile(self.project / "output/report.docx") as archive:
+            self.assertIn(sentence, archive.read("word/document.xml").decode("utf-8"))
+
     def test_markdown_tables_and_reference_anchors_are_portable(self):
         path = self.project / "report.md"
         path.write_text(path.read_text() + "\n| Plan | Cost |\n|---|---:|\n| A | 12000 |\n")

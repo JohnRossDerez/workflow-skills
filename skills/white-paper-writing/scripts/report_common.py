@@ -85,7 +85,7 @@ def rendered_numbers(text: str, numbers: list[dict]) -> str:
 def pandoc_ast(text: str, project: Path) -> dict:
     result = subprocess.run(
         ["pandoc", "--from=markdown", "--to=json"], input=text,
-        text=True, capture_output=True, check=True, cwd=project,
+        text=True, encoding="utf-8", capture_output=True, check=True, cwd=project,
     )
     return json.loads(result.stdout)
 
@@ -172,6 +172,7 @@ def prepare_document(project: Path, config: dict, records: dict) -> tuple[dict, 
                 blocks.append({"t": "Para", "c": [{"t": "Emph", "c": inlines(figures[path]["source_note"])}]})
     if cited:
         blocks.append({"t": "Header", "c": [1, ["references", [], []], inlines("References")]})
+        references = []
         for key in cited:
             source = sources[key]
             content = inlines(f"[{numbering[key]}] {source['reference']}")
@@ -181,7 +182,10 @@ def prepare_document(project: Path, config: dict, records: dict) -> tuple[dict, 
             if source.get("retrieved_date"):
                 content.append({"t": "Space"})
                 content.extend(inlines(f" Accessed {source['retrieved_date']}."))
-            blocks.append({"t": "Div", "c": [[f"ref-{key}", [], []], [{"t": "Para", "c": content}]]})
+            references.append({"t": "Div", "c": [[f"ref-{key}", [], []], [{"t": "Para", "c": content}]]})
+        # Pandoc treats ref-* anchors as bibliography entries. Keep them in a
+        # bibliography container so its LaTeX writer supplies the list environment.
+        blocks.append({"t": "Div", "c": [["", ["csl-bib-body"], []], references]})
     ast["blocks"] = blocks
     return ast, cited
 

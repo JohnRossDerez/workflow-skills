@@ -1,6 +1,6 @@
 # State, resources, and persisted outcomes
 
-Read this when a change affects checkpoint recovery, owned clients/models, lifecycle, or artifact publication.
+Read this for collection-building examples or changes affecting checkpoint recovery, owned clients/models, lifecycle, or artifact publication.
 
 ## Make the lifecycle visible
 
@@ -9,6 +9,22 @@ Identify the source of truth and the states the consumer can actually encounter.
 Trace acquisition, restoration, use, export/publication, and cleanup at the composition boundary. Keep the resource that owns mutable state identifiable. A step counter or completion marker is not a substitute for loading the state it describes.
 
 Use a context manager or explicit `try/finally` when the API supports it. Release owned resources on normal and exceptional paths without discarding the original failure. Caller-owned resources should follow the ownership contract rather than being closed unexpectedly.
+
+## Build collections without copying accumulated state
+
+When constructing an ID lookup, repeated copies of a growing dictionary do unnecessary work and obscure local ownership:
+
+```python
+# Copies every accumulated entry on each iteration.
+by_id = {}
+for customer in customers:
+    by_id = {**by_id, customer.id: customer}
+
+# Builds a fresh dictionary; duplicate IDs still keep the last customer.
+by_id = {customer.id: customer for customer in customers}
+```
+
+Both forms retain references to the same customer objects. For multi-step construction, assign into a fresh local dictionary in an ordinary loop. Keep copies when earlier snapshots must remain independent; neither form makes mutable customer objects independent. The growing-accumulator decision adapts [anti-slop's accumulator-copy rule](https://github.com/dmmulroy/anti-slop#no-reduce-accumulator-copy).
 
 ## Define recovery and publication semantics
 
