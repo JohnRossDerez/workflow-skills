@@ -1,0 +1,3 @@
+# Keep byte-based example build and review fingerprints stable across checkouts.
+examples/** text eol=lf
+examples/**/*.pdf binary

@@ -12,5 +12,40 @@
     "severity": "minor",
     "status": "accepted",
     "disposition": "Reader accurately recovered meaning and case boundaries. No further semantic or layout edit justified in this bounded self-description; limitations retained in actual reader response."
+  },
+  {
+    "id": "R20261009-reader",
+    "description": "Fresh reader identified process terminology and dense evaluation qualifications",
+    "severity": "minor",
+    "status": "accepted",
+    "disposition": "Unprompted reader recovered the intended message, workflow choice and evidence limits. Preserve raw response in qa/cold-reader-20261009.md and rationale in qa/editorial-review-20261009.md; do not claim human-reader effectiveness."
+  },
+  {
+    "id": "R20261009-researched-rewrite",
+    "description": "Long trial recap and R&D framing burdened the self-description",
+    "severity": "minor",
+    "status": "resolved",
+    "disposition": "Replaced the recap with bounded evidence, externally sourced rationale and concrete audits; broadened executive subject scope. New reviews required on the researched revision."
+  },
+  {
+    "id": "R20261009-research-evidence",
+    "description": "Initial failed drafts were omitted and design/chronology wording exceeded cited support",
+    "severity": "material",
+    "status": "resolved",
+    "disposition": "Added three-of-four initial defects; framed editing as instruction; registered the graph/evaluation boundaries; removed unverified chronology and corrected source extract. Independent final evidence recheck passed; full findings retained in qa/evidence-review-researched-20261009.md."
+  },
+  {
+    "id": "R20261009-researched-reader",
+    "description": "Fresh reader requested clearer workflow thresholds and agent pass criteria",
+    "severity": "minor",
+    "status": "accepted",
+    "disposition": "Reader recovered the main promise, actionable audits and agent-only evidence limits. Preserve limitations in raw qa/cold-reader-researched-20261009.md and root assessment in qa/editorial-review-researched-20261009.md."
+  },
+  {
+    "id": "R20261009-AI-domain",
+    "description": "NASA traceability was an indirect analogy for the requested AI engineering rationale",
+    "severity": "minor",
+    "status": "resolved",
+    "disposition": "Replaced the reading-path paragraph/citation with Anthropic AI workflow guidance; superseded NASA claims are not emitted. Fresh reader recovered the rationale and audit steps."
   }
 ]

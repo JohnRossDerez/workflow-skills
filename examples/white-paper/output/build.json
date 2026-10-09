@@ -1,58 +1,62 @@
 {
   "schema_version": 1,
   "status": "built",
-  "content_digest": "6e940ad77c1785a4270369a91f48d0389009e20fc48cbc9764c78163be02fe51",
+  "content_digest": "75abc88d54f354cf78f6001f6fb09e439b6e7c13ccfdf73096f23143b6e71eb7",
   "inputs": {
-    "assets/pdf-header.tex": "eeab093c4d70736fcfa545753a3181991fd85b611de824b2d77ddfcff5418611",
-    "evidence/calculations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "evidence/claims.json": "ad090a4c4fb92b15d4a6d67b98028b8947f60a8cc1fb81867151d4504be1f492",
-    "evidence/links.json": "2ad6c3c387563c0df00fe9c53b2c5464b837435e2cfa41423a3548457acb3710",
-    "evidence/numbers.json": "50e99d820846e46aad87999e2ee40351d84d296f4f36ef26695ac0e43c098c24",
-    "evidence/sources.json": "7aad9db7e488e1df4bda8ef169b692ecafc6ebf18748226195bf5683e60d9a47",
-    "figures/register.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "planning/brief.md": "1a0264312da094ee0f11c616f1f36635176e361c271fdc8db4f96e19aee419ba",
-    "planning/plan.md": "6ce753259143c6de895677aefeae6198e73e27a39b19cd76d73a7fca4583d8c3",
+    "assets\\pdf-header.tex": "31ea1d575deb3875353c2ad45731157bc62b4d37d1f15331005740286c57105e",
+    "evidence\\calculations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "evidence\\claims.json": "e828eee1b0301989a0f9c5f6baca0db289430dec32b3fcaa7159187b7ef4dcb3",
+    "evidence\\links.json": "97744dcc1f27c09ba8282da28bd9e69af3e8d6562e3b308ceab862159e4569c6",
+    "evidence\\numbers.json": "773799f1e88b26effa1820a0303f1632509ff4d2f024c97b247f964ddd73be8f",
+    "evidence\\sources.json": "4df32ae9bbffe34c8d3d4bcea259dd4d8e2fd450432cd1d3b550a8dda579e7ce",
+    "figures\\register.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "planning\\brief.md": "e129e64bb556cffd5963afada92b429ef8d7170a4ba46f409a7f28f42c670b40",
+    "planning\\plan.md": "c8d828ff5317040e9a746ccbba421d0964212ea7897f4a08a2f91b99143a54a5",
     "project.json": "36bef944a2903618ad6b0092f672fb1d471f6996a8a47e7c154304a7a136709e",
-    "report.md": "07afbfb4a202864d24fd28ab836c25d7d0c38fe2964f00a0750f8f457bd9d576",
-    "sources/S01-SKILL.md": "005333f9f128c78afccbc8a348716215662ab102a5ec8b8540c1675d1645bcab",
-    "sources/S02-compact-workflow.md": "6489aea65cbb751d365b6c0f9e68a14c70501bd5479e3f43ac68229e36d22c31",
-    "sources/S03-RESULTS.md": "b25311c93bf6fcd08672e60d8e8314c4613610616ca82644e9c6665afd3c80e4",
-    "sources/S04-build_report.py": "5453ef14e24c0c8eeab487648a0c3e07e5386ef9961c8e55da54b856d7b8f518",
-    "sources/S05-summary.json": "946eb59f995ccf8ffd3af53cc10a1a33ab2224dcca636f0b5d0703462fddbf3a",
-    "sources/S06-final-summary.json": "76c443763dbeeac00fd1dfc7ea5241d4f26c4d4c4aa7d37d63ab792752a9a375",
-    "sources/S07-production-and-qa.md": "f1c7e1bd754979ce7c896dc39b4375b060db8f1dc8a5a8ad4b27612eba2ee8fc",
-    "sources/S08-profiles.md": "5d6cc1ea1aea846c0f77d4d17b3832c0055e25a8c0b19961bdc732f8507c5e79",
-    "sources/S09-report_common.py": "797f1b91db8b15ec987ed59cd836f638eb3cc815295910a87b44b684f5c63474",
-    "sources/S10-record_review.py": "79e940a731f85786c5fbdb85e1be09f394dc8799dc32dea9b09688db089a29f8",
-    "sources/S11-human-writing.md": "ff3c8f05444769a1e6668d27050f9c54a38f7dbe3c8f4fb9a613eff27a572002"
+    "report.md": "ae85c39d6993bf95c27eef1bf8ba9b496d63a952a4821bf87d0a936e3fe2ba91",
+    "research\\search-log.md": "b7102c6e4f785f2c9e2c7d1128371517c542d451627bc3baf24d228ddf4be6db",
+    "sources\\S01-SKILL.md": "ccf27657e669f8e4a76be02cdf68276879a8da93e187d61299046f4852796f76",
+    "sources\\S02-compact-workflow.md": "6489aea65cbb751d365b6c0f9e68a14c70501bd5479e3f43ac68229e36d22c31",
+    "sources\\S03-RESULTS.md": "b25311c93bf6fcd08672e60d8e8314c4613610616ca82644e9c6665afd3c80e4",
+    "sources\\S04-build_report.py": "c1a3ead068a94bdc54d48ade9ed79783f0e5bbf2336a4244db963449a5122d04",
+    "sources\\S05-summary.json": "946eb59f995ccf8ffd3af53cc10a1a33ab2224dcca636f0b5d0703462fddbf3a",
+    "sources\\S06-final-summary.json": "76c443763dbeeac00fd1dfc7ea5241d4f26c4d4c4aa7d37d63ab792752a9a375",
+    "sources\\S07-production-and-qa.md": "9ebb64292ff46d47edbe3d813c14d6f4a84e77518a368dc61fa37151cd3041f4",
+    "sources\\S08-profiles.md": "5d6cc1ea1aea846c0f77d4d17b3832c0055e25a8c0b19961bdc732f8507c5e79",
+    "sources\\S09-report_common.py": "2800931430ef59a102bd66d914a480cd342db360adb0b762d4d70490998b6cae",
+    "sources\\S10-record_review.py": "d4137e135593984a4d01619c31012cb4f21279aa4c596c7969d7bae604f05bcc",
+    "sources\\S11-human-writing.md": "ff3c8f05444769a1e6668d27050f9c54a38f7dbe3c8f4fb9a613eff27a572002",
+    "sources\\S12-principles-extract.md": "3fa4386f17212e4f3cf05968f04aefb3d1847ff35f57f03c9dfeca4a73302307",
+    "sources\\S13-paraphrase-extract.md": "e1d7482e04118737c1ee03b6deae00d451cafcc18d02718a5a9234f097c1ada6",
+    "sources\\S14-nasa-extract.md": "380e180820e1842f9113953f63a6bf1c2fe8a802dbd0b6c036f73fea13154c69",
+    "sources\\S15-alce-extract.md": "f6a5690a8aea335c8be108e3d5ce0f0a902b5d7f00a8a2f2d73731471dee6579",
+    "sources\\S16-ai-workflows-extract.md": "72b4f27044e04c7deb1b2bdd110b32593db1828025baf4277333d95f82442f6c"
   },
-  "built_at": "2026-10-02T06:13:03.287379+00:00",
-  "pandoc": "pandoc 2.0.6",
+  "built_at": "2026-10-09T13:18:10.499950+00:00",
+  "pandoc": "pandoc 3.12.1",
   "citations": [
     "S01",
-    "S02",
-    "S03",
-    "S06",
-    "S11",
-    "S08",
     "S07",
-    "S04",
-    "S09",
-    "S10",
-    "S05"
+    "S02",
+    "S11",
+    "S12",
+    "S13",
+    "S16",
+    "S15",
+    "S03"
   ],
   "logs": [
     {
       "format": "pdf",
       "returncode": 0,
-      "stderr": ""
+      "stderr": "pdflatex: major issue: So far, you have not checked for MiKTeX updates.\npdflatex: major issue: So far, you have not checked for MiKTeX updates.\n"
     }
   ],
   "artifacts": {
-    "output/report.pdf": "be0d6836b91d29a65264cd4d4b0b76ddca70b0882b73438e3d83235fb1ed82b9"
+    "output/report.pdf": "c25596b1f51e8d7ac890376420bd6baf5fee3177ade73a9648d82a67f20b4ac8"
   },
   "toolchain": {
-    "report_common.py": "797f1b91db8b15ec987ed59cd836f638eb3cc815295910a87b44b684f5c63474",
-    "build_report.py": "5453ef14e24c0c8eeab487648a0c3e07e5386ef9961c8e55da54b856d7b8f518"
+    "report_common.py": "1fb04f1f28f2130ec1898d3f9442bcc48d81455c3dd35c776ef597055bee7d1e",
+    "build_report.py": "d0ec8cf0ae12cf3f0ec1dcc5638182a3c1b9eab720df24453017b57129fac92c"
   }
 }

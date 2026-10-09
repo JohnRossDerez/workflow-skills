@@ -1,8 +1,17 @@
 \usepackage{xcolor}
 \definecolor{inkblue}{HTML}{20364B}
-\hypersetup{colorlinks=true,linkcolor=inkblue,urlcolor=inkblue}
+\AtBeginDocument{\hypersetup{colorlinks=true,linkcolor=inkblue,urlcolor=inkblue}}
 \setlength{\emergencystretch}{3em}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.45em}
 \clubpenalty=10000
 \widowpenalty=10000
+
+% Manual citation links use hyperref labels; recent Pandoc emits bibitems.
+\AtBeginDocument{%
+  \let\samplebibitem\bibitem
+  \renewcommand{\bibitem}[2][]{\samplebibitem[#1]{#2}\label{#2}}%
+}
+
+% Keep a page-opening references heading above its first list item.
+\AddToHook{env/CSLReferences/before}{\leavevmode\par}

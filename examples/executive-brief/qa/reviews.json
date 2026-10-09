@@ -50,5 +50,109 @@
       "output/report.pdf": "6ebbd458ff531a0c2995b4ddd1829bc8626fb4a654373f288821d49a4c6f6305"
     },
     "checked_at": "2026-10-02T06:12:35.121452+00:00"
+  },
+  {
+    "kind": "evidence",
+    "status": "pass",
+    "reviewer": "/root/sample_evidence_review",
+    "method": "independent",
+    "notes_file": "qa/evidence-review-20261009.md",
+    "notes_sha256": "e03820324e60a0f1978dfd3228b87c23e89c23c335531ab37e7e74e5741d3e97",
+    "content_digest": "993106622b1e81e1f6dd72ec75cb49fbbbbcf74d4dde9e8e34cb82f1393e2a34",
+    "artifacts": {
+      "output/report.pdf": "2cae71bda8ea2c6565e8279a381d50ed511561755e6b00a09f30ec04c49ae6c3"
+    },
+    "checked_at": "2026-10-09T13:02:18.659718+00:00"
+  },
+  {
+    "kind": "editorial",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "self",
+    "notes_file": "qa/editorial-review-20261009.md",
+    "notes_sha256": "dfbb50cbfd9c20edb3bde4d8ddc78c2955546a61642ee830d7d32ee2a2a6e011",
+    "content_digest": "993106622b1e81e1f6dd72ec75cb49fbbbbcf74d4dde9e8e34cb82f1393e2a34",
+    "artifacts": {
+      "output/report.pdf": "2cae71bda8ea2c6565e8279a381d50ed511561755e6b00a09f30ec04c49ae6c3"
+    },
+    "checked_at": "2026-10-09T13:02:18.849230+00:00"
+  },
+  {
+    "kind": "cold_reader",
+    "status": "pass",
+    "reviewer": "/root/executive_sample_reader",
+    "method": "independent",
+    "notes_file": "qa/cold-reader-20261009.md",
+    "notes_sha256": "489dc428698edf3b8e226ae35b0edcc9c13e2c7503cb4d34271c766d0094ed8c",
+    "content_digest": "993106622b1e81e1f6dd72ec75cb49fbbbbcf74d4dde9e8e34cb82f1393e2a34",
+    "artifacts": {
+      "output/report.pdf": "2cae71bda8ea2c6565e8279a381d50ed511561755e6b00a09f30ec04c49ae6c3"
+    },
+    "checked_at": "2026-10-09T13:02:19.049444+00:00"
+  },
+  {
+    "kind": "visual:pdf",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "rendered",
+    "notes_file": "qa/pdf-review-20261009.md",
+    "notes_sha256": "4d8a73d26f20a977afeab7c7b6fa581329c47ae59dda89ba29534c113a8c4fc5",
+    "content_digest": "993106622b1e81e1f6dd72ec75cb49fbbbbcf74d4dde9e8e34cb82f1393e2a34",
+    "artifacts": {
+      "output/report.pdf": "2cae71bda8ea2c6565e8279a381d50ed511561755e6b00a09f30ec04c49ae6c3"
+    },
+    "checked_at": "2026-10-09T13:02:19.239615+00:00"
+  },
+  {
+    "kind": "evidence",
+    "status": "pass",
+    "reviewer": "/root/researched_samples_evidence",
+    "method": "independent",
+    "notes_file": "qa/evidence-review-researched-20261009.md",
+    "notes_sha256": "39e310c34725c19cc5cba2564e45ac80d44cc7a443d33f61a3a68567be979d81",
+    "content_digest": "13b4b64834a97f409050c68543fc210df755dde9effdd14ab3a371a51521a530",
+    "artifacts": {
+      "output/report.pdf": "3bf9c69532c37a83830352be783b13085ba4015948d487080ac743dafe5c369a"
+    },
+    "checked_at": "2026-10-09T13:16:48.881323+00:00"
+  },
+  {
+    "kind": "editorial",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "self",
+    "notes_file": "qa/editorial-review-researched-20261009.md",
+    "notes_sha256": "2895479441b6ff99ae81fe3b56c40cce0444d687ced51db389d0852e42bf3663",
+    "content_digest": "13b4b64834a97f409050c68543fc210df755dde9effdd14ab3a371a51521a530",
+    "artifacts": {
+      "output/report.pdf": "3bf9c69532c37a83830352be783b13085ba4015948d487080ac743dafe5c369a"
+    },
+    "checked_at": "2026-10-09T13:16:49.099213+00:00"
+  },
+  {
+    "kind": "cold_reader",
+    "status": "pass",
+    "reviewer": "/root/researched_exec_final_reader",
+    "method": "independent",
+    "notes_file": "qa/cold-reader-researched-20261009.md",
+    "notes_sha256": "8a9b282cc279178f9d499672711d4ea1e18e53cdfd8d793c793cd58f6869e6ae",
+    "content_digest": "13b4b64834a97f409050c68543fc210df755dde9effdd14ab3a371a51521a530",
+    "artifacts": {
+      "output/report.pdf": "3bf9c69532c37a83830352be783b13085ba4015948d487080ac743dafe5c369a"
+    },
+    "checked_at": "2026-10-09T13:16:49.284862+00:00"
+  },
+  {
+    "kind": "visual:pdf",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "rendered",
+    "notes_file": "qa/pdf-review-researched-20261009.md",
+    "notes_sha256": "3f0cec3375617a82b9737251f8b8b256d5af9a900816ed28be020dff33690def",
+    "content_digest": "13b4b64834a97f409050c68543fc210df755dde9effdd14ab3a371a51521a530",
+    "artifacts": {
+      "output/report.pdf": "3bf9c69532c37a83830352be783b13085ba4015948d487080ac743dafe5c369a"
+    },
+    "checked_at": "2026-10-09T13:16:49.485979+00:00"
   }
 ]

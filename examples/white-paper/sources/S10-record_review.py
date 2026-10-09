@@ -31,7 +31,7 @@ def record_review(project: Path, *, kind: str, reviewer: str, method: str,
     notes = local_path(project, notes_file)
     if not notes.is_file() or not notes.read_text(encoding="utf-8").strip():
         raise ValueError("write substantive review notes before recording the result")
-    if notes_file in {"qa/reviews.json", "qa/issues.json"}:
+    if notes in {(project / "qa/reviews.json").resolve(), (project / "qa/issues.json").resolve()}:
         raise ValueError("use a separate review notes file")
     build = read_json(project / "output/build.json")
     digest = content_digest(project)

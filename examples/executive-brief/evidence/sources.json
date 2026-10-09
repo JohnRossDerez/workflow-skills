@@ -58,5 +58,38 @@
     "source_type": "internal_document",
     "origin_id": "O-DESIGN",
     "limitations": "Subsequent instruction revision, not exercised in the frozen comparison; benefits remain to be evaluated."
+  },
+  {
+    "id": "S07",
+    "title": "Principles of plain language",
+    "reference": "U.S. General Services Administration. Principles of plain language.",
+    "url_or_path": "https://digital.gov/guides/plain-language/principles/",
+    "archive_path": "sources/S07-principles-extract.md",
+    "source_type": "official_guidance",
+    "origin_id": "O-GSA",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Practice guidance for government communication; not a controlled evaluation of this skill."
+  },
+  {
+    "id": "S08",
+    "title": "Paraphrase testing",
+    "reference": "U.S. General Services Administration. Paraphrase testing.",
+    "url_or_path": "https://digital.gov/guides/plain-language/test/paraphrase-testing",
+    "archive_path": "sources/S08-paraphrase-extract.md",
+    "source_type": "official_guidance",
+    "origin_id": "O-GSA",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Human-reader testing guidance; an agent test is not equivalent to intended-human-reader validation."
+  },
+  {
+    "id": "S09",
+    "title": "Enabling Large Language Models to Generate Text with Citations",
+    "reference": "Gao, T., Yen, H., Yu, J. and Chen, D. (2023). Enabling Large Language Models to Generate Text with Citations. EMNLP.",
+    "url_or_path": "https://aclanthology.org/2023.emnlp-main.398/",
+    "archive_path": "sources/S09-alce-extract.md",
+    "source_type": "research_paper",
+    "origin_id": "O-ALCE",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Historical benchmark of tested systems and datasets; not a failure-rate estimate for current models or this skill."
   }
 ]

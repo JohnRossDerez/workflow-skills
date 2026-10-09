@@ -4,44 +4,8 @@
     "value": "4",
     "display_value": "4",
     "decimal_places": 0,
-    "unit": "initial author cases across both audiences",
-    "time_basis": "2026-10-01 project evaluation",
-    "source_id": "S06"
-  },
-  {
-    "id": "N02",
-    "value": "17",
-    "display_value": "17",
-    "decimal_places": 0,
-    "unit": "full technical initial counted files",
-    "time_basis": "2026-10-01 project evaluation",
+    "unit": "initial author cases across technical and executive writing",
+    "time_basis": "2026-10-01 local comparison",
     "source_id": "S03"
-  },
-  {
-    "id": "N03",
-    "value": "19",
-    "display_value": "19",
-    "decimal_places": 0,
-    "unit": "full technical revised counted files",
-    "time_basis": "2026-10-01 project evaluation",
-    "source_id": "S03"
-  },
-  {
-    "id": "N04",
-    "value": "7",
-    "display_value": "7",
-    "decimal_places": 0,
-    "unit": "compact technical counted files",
-    "time_basis": "2026-10-01 project evaluation",
-    "source_id": "S03"
-  },
-  {
-    "id": "N05",
-    "value": "64",
-    "display_value": "64",
-    "decimal_places": 0,
-    "unit": "helper checks per writing skill",
-    "time_basis": "2026-10-01 project evaluation",
-    "source_id": "S05"
   }
 ]

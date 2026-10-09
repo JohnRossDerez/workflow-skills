@@ -1,48 +1,51 @@
 {
   "schema_version": 1,
   "status": "built",
-  "content_digest": "a4bff2015d007a5c6c46cb35ade5ed3ce00d660776b7e48a5bc980419b2f45d8",
+  "content_digest": "13b4b64834a97f409050c68543fc210df755dde9effdd14ab3a371a51521a530",
   "inputs": {
-    "assets/pdf-header.tex": "eeab093c4d70736fcfa545753a3181991fd85b611de824b2d77ddfcff5418611",
-    "evidence/calculations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "evidence/claims.json": "6829a580e1ae40a241e548149f3d4ea72c8fc97feef02492c09230ecba9bff77",
-    "evidence/links.json": "d538dfbf8715cbb6dc614731ce55725b39feea77d125247594fb7263d95700c0",
-    "evidence/numbers.json": "824edb53adce469295dc1c4436c09142c207b8332c2d71419edb24902f1f9c72",
-    "evidence/sources.json": "1e3c4b01be350812b946cc1dc6d81de266aeea0ba1dc2ee6ff985a2a145a3186",
-    "figures/register.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-    "planning/brief.md": "200dd1c832fbf3832f3279a5f418a6a5fca146e30f9261a252cb2c7c39c5afd4",
-    "planning/plan.md": "6ce753259143c6de895677aefeae6198e73e27a39b19cd76d73a7fca4583d8c3",
-    "project.json": "413c64cb07bac344453d9795a19d172592a01eff14f3d6f8a8f5d987c6f462f8",
-    "report.md": "7d2954f2fbef04db46ee7bba39d5c8c86019bef824b6def7dd4d6bfc40c9f93f",
-    "sources/S01-SKILL.md": "89ed617c6d1f6cc0f426d0d3f5277ff8ce57379c70b9874c12dacb3d0ef5155c",
-    "sources/S02-writing-and-figures.md": "a07d22c41cded1de4d3c6899b197d27e0b54184b4a07f55cdcb25c4ca6eda067",
-    "sources/S03-RESULTS.md": "b25311c93bf6fcd08672e60d8e8314c4613610616ca82644e9c6665afd3c80e4",
-    "sources/S04-final-summary.json": "76c443763dbeeac00fd1dfc7ea5241d4f26c4d4c4aa7d37d63ab792752a9a375",
-    "sources/S05-summary.json": "946eb59f995ccf8ffd3af53cc10a1a33ab2224dcca636f0b5d0703462fddbf3a",
-    "sources/S06-human-writing.md": "4b44017d40ecedca29a4ac33068ce6b58632a9be23e2d3d61ba9e0b5c433ea05"
+    "assets\\pdf-header.tex": "31ea1d575deb3875353c2ad45731157bc62b4d37d1f15331005740286c57105e",
+    "evidence\\calculations.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "evidence\\claims.json": "1dc0dd4785fd052becc2aa41080f7a161aaf41127a5fee9432855f6cf338103f",
+    "evidence\\links.json": "23ba7b0364f17cee986d0b3f53cb4c6470392ab75f0dc8c23107d8204ba2049b",
+    "evidence\\numbers.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "evidence\\sources.json": "03e35b4f7ef911f69583b2575c3ff231cc5d132f24854710949999766fd41493",
+    "figures\\register.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "planning\\brief.md": "421fd35735629b9c65df56a592d43c78e078586586bdb36b9e58ccd455a69983",
+    "planning\\plan.md": "3d673ad1ff3709232228469d0d65bd7f60edad14d30b957cd79885efbed42607",
+    "project.json": "538129684d3661820110fd749b654a19e1f2e3f8777837cc3a5b644bc444bbe1",
+    "report.md": "ddd209f5ad658e3563f59fb38b1faa730d065751489835c7554e11b555eaaace",
+    "research\\search-log.md": "9d5e97af98bc1f313f64c513fe3e210fc830c2386d0e8eaf7bf19a52908f20c5",
+    "sources\\S01-SKILL.md": "62437329a8ac39854b92e6effbd8803da67fcc6dd5ef8381fc9a54e3361f2cd3",
+    "sources\\S02-writing-and-figures.md": "a07d22c41cded1de4d3c6899b197d27e0b54184b4a07f55cdcb25c4ca6eda067",
+    "sources\\S03-RESULTS.md": "b25311c93bf6fcd08672e60d8e8314c4613610616ca82644e9c6665afd3c80e4",
+    "sources\\S04-final-summary.json": "76c443763dbeeac00fd1dfc7ea5241d4f26c4d4c4aa7d37d63ab792752a9a375",
+    "sources\\S05-summary.json": "946eb59f995ccf8ffd3af53cc10a1a33ab2224dcca636f0b5d0703462fddbf3a",
+    "sources\\S06-human-writing.md": "4b44017d40ecedca29a4ac33068ce6b58632a9be23e2d3d61ba9e0b5c433ea05",
+    "sources\\S07-principles-extract.md": "3fa4386f17212e4f3cf05968f04aefb3d1847ff35f57f03c9dfeca4a73302307",
+    "sources\\S08-paraphrase-extract.md": "e1d7482e04118737c1ee03b6deae00d451cafcc18d02718a5a9234f097c1ada6",
+    "sources\\S09-alce-extract.md": "f6a5690a8aea335c8be108e3d5ce0f0a902b5d7f00a8a2f2d73731471dee6579"
   },
-  "built_at": "2026-10-02T06:10:39.528542+00:00",
-  "pandoc": "pandoc 2.0.6",
+  "built_at": "2026-10-09T13:13:02.484622+00:00",
+  "pandoc": "pandoc 3.12.1",
   "citations": [
     "S01",
-    "S06",
-    "S03",
-    "S04",
-    "S05",
-    "S02"
+    "S07",
+    "S08",
+    "S09",
+    "S03"
   ],
   "logs": [
     {
       "format": "pdf",
       "returncode": 0,
-      "stderr": ""
+      "stderr": "pdflatex: major issue: So far, you have not checked for MiKTeX updates.\npdflatex: major issue: So far, you have not checked for MiKTeX updates.\n"
     }
   ],
   "artifacts": {
-    "output/report.pdf": "6ebbd458ff531a0c2995b4ddd1829bc8626fb4a654373f288821d49a4c6f6305"
+    "output/report.pdf": "3bf9c69532c37a83830352be783b13085ba4015948d487080ac743dafe5c369a"
   },
   "toolchain": {
-    "report_common.py": "46144ab78dcce1dc2be542d8ccdcf1348d56a274ccdf2064feada837a4ffba95",
-    "build_report.py": "5453ef14e24c0c8eeab487648a0c3e07e5386ef9961c8e55da54b856d7b8f518"
+    "report_common.py": "0d0a98ca27d30a6008bef492479d87e0f922b241fe601531724e9de295202978",
+    "build_report.py": "d0ec8cf0ae12cf3f0ec1dcc5638182a3c1b9eab720df24453017b57129fac92c"
   }
 }

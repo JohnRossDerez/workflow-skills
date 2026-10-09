@@ -1,74 +1,83 @@
 [
   {
     "id": "C01",
-    "text": "a concise explanation, decision brief or recommendation for a mostly nontechnical sponsor",
+    "text": "turns researched evidence on any topic into a concise explanation, decision brief or recommendation for an executive reader.",
     "type": "internal_observation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "a concise explanation, decision brief or recommendation for a mostly nontechnical sponsor"
+    "report_excerpt": "turns researched evidence on any topic into a concise explanation, decision brief or recommendation for an executive reader."
   },
   {
     "id": "C02",
-    "text": "A short or low-risk brief can use one manuscript and concise evidence notes.",
-    "type": "internal_observation",
+    "text": "Digital.gov recommends writing for the audience's knowledge and organizing the answer up front.",
+    "type": "external_observation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "A short or low-risk brief can use one manuscript and concise evidence notes."
+    "report_excerpt": "Digital.gov recommends writing for the audience's knowledge and organizing the answer up front."
   },
   {
     "id": "C03",
-    "text": "technical subject matter alone does not require it",
-    "type": "internal_observation",
+    "text": "Its paraphrase test asks readers to explain meaning and intended action in their own words.",
+    "type": "external_observation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "technical subject matter alone does not require it"
+    "report_excerpt": "Its paraphrase test asks readers to explain meaning and intended action in their own words."
   },
   {
     "id": "C04",
-    "text": "Initial executive drafts needed clearer release scope and evidence allocation.",
-    "type": "internal_observation",
+    "text": "ALCE research treats fluency, factual correctness and citation quality as separate questions.",
+    "type": "external_observation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "Initial executive drafts needed clearer release scope and evidence allocation."
+    "report_excerpt": "ALCE research treats fluency, factual correctness and citation quality as separate questions."
   },
   {
     "id": "C05",
-    "text": "final independent reviewers found no material factual defect",
+    "text": "Final agent reviewers and fresh agent readers passed the revised documents after a source correction.",
     "type": "internal_observation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "final independent reviewers found no material factual defect"
+    "report_excerpt": "Final agent reviewers and fresh agent readers passed the revised documents after a source correction."
   },
   {
     "id": "C06",
-    "text": "The comparison delivered Markdown and did not test PDF appearance.",
-    "type": "internal_observation",
+    "text": "This demonstrates feasibility in those cases, not average quality, savings or human-reader benefit.",
+    "type": "interpretation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "The comparison delivered Markdown and did not test PDF appearance."
+    "report_excerpt": "This demonstrates feasibility in those cases, not average quality, savings or human-reader benefit."
   },
   {
     "id": "C07",
-    "text": "that wording change was not a separate author trial",
+    "text": "The comparison delivered Markdown and did not test PDF appearance. This PDF is a separate demonstration.",
     "type": "internal_observation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "that wording change was not a separate author trial"
+    "report_excerpt": "The comparison delivered Markdown and did not test PDF appearance. This PDF is a separate demonstration."
   },
   {
     "id": "C08",
-    "text": "The skill does not prescribe a new tone every sentence or use sentence-length scores as a quality target.",
+    "text": "Start with one brief, the reader's question and concise evidence notes.",
     "type": "internal_observation",
     "status": "supported",
     "importance": "high",
     "emitted": true,
-    "report_excerpt": "The skill does not prescribe a new tone every sentence or use sentence-length scores as a quality target."
+    "report_excerpt": "Start with one brief, the reader's question and concise evidence notes."
+  },
+  {
+    "id": "C09",
+    "text": "Three of the four initial drafts needed corrections to evidence attribution or scope.",
+    "type": "internal_observation",
+    "status": "supported",
+    "importance": "high",
+    "emitted": true,
+    "report_excerpt": "Three of the four initial drafts needed corrections to evidence attribution or scope."
   }
 ]

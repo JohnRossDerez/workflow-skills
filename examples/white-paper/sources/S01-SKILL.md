@@ -66,7 +66,7 @@ python3 <skill-directory>/scripts/record_review.py <project-directory> --kind ev
 python3 <skill-directory>/scripts/validate_report_project.py <project-directory> --release
 ```
 
-Record the other required reviews using the QA reference. Never record a review as passed before performing it. Scripts check structure, traceability, and freshness; they cannot establish semantic truth or visual quality. Report unavailable checks explicitly and deliver a review draft if release requirements remain unmet.
+Record the other required reviews using the QA reference. Never record a review as passed before performing it. Review material claims against the original evidence's population, conditions, and support strength; review technical explanations for definitions or mechanisms the reader needs but the text omits. Locate findings in the claim, calculation, or passage and explain the correction. Scripts check structure, traceability, and freshness; they cannot establish semantic truth or visual quality. Report unavailable checks explicitly and deliver a review draft if release requirements remain unmet.
 
 ## Handoff
 

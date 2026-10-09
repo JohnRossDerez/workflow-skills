@@ -108,5 +108,61 @@
     "source_type": "internal_document",
     "origin_id": "O-DESIGN",
     "limitations": "Subsequent instruction revision, not exercised in the frozen comparison; benefits remain to be evaluated."
+  },
+  {
+    "id": "S12",
+    "title": "Principles of plain language",
+    "reference": "U.S. General Services Administration. Principles of plain language.",
+    "url_or_path": "https://digital.gov/guides/plain-language/principles/",
+    "archive_path": "sources/S12-principles-extract.md",
+    "source_type": "official_guidance",
+    "origin_id": "O-GSA",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Practice guidance for government communication; not a controlled evaluation of this skill."
+  },
+  {
+    "id": "S13",
+    "title": "Paraphrase testing",
+    "reference": "U.S. General Services Administration. Paraphrase testing.",
+    "url_or_path": "https://digital.gov/guides/plain-language/test/paraphrase-testing",
+    "archive_path": "sources/S13-paraphrase-extract.md",
+    "source_type": "official_guidance",
+    "origin_id": "O-GSA",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Human-reader testing guidance; an agent test is not equivalent to intended-human-reader validation."
+  },
+  {
+    "id": "S14",
+    "title": "Requirements management",
+    "reference": "NASA. Systems Engineering Handbook, section 6.2: Requirements management.",
+    "url_or_path": "https://www.nasa.gov/reference/6-2-requirements-management/",
+    "archive_path": "sources/S14-nasa-extract.md",
+    "source_type": "official_guidance",
+    "origin_id": "O-NASA",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Systems-engineering requirements guidance. Application to writing is an analogy, not a measured writing benefit."
+  },
+  {
+    "id": "S15",
+    "title": "Enabling Large Language Models to Generate Text with Citations",
+    "reference": "Gao, T., Yen, H., Yu, J. and Chen, D. (2023). Enabling Large Language Models to Generate Text with Citations. EMNLP.",
+    "url_or_path": "https://aclanthology.org/2023.emnlp-main.398/",
+    "archive_path": "sources/S15-alce-extract.md",
+    "source_type": "research_paper",
+    "origin_id": "O-ALCE",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Historical benchmark of tested systems and datasets; not a failure-rate estimate for current models or this skill."
+  },
+  {
+    "id": "S16",
+    "title": "Building effective agents",
+    "reference": "Anthropic (2024). Building effective agents.",
+    "url_or_path": "https://www.anthropic.com/engineering/building-effective-agents",
+    "archive_path": "sources/S16-ai-workflows-extract.md",
+    "source_type": "practitioner_guidance",
+    "origin_id": "O-ANTHROPIC",
+    "published_date": "2024-12-19",
+    "retrieved_date": "2026-10-09",
+    "limitations": "Vendor practitioner guidance, not a controlled skill evaluation. Use workflow principles, not the dated tooling recommendations."
   }
 ]

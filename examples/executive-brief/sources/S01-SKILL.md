@@ -64,7 +64,7 @@ python3 <skill-directory>/scripts/record_review.py <project-directory> --kind ev
 python3 <skill-directory>/scripts/validate_report_project.py <project-directory> --release
 ```
 
-Record the other required reviews using the QA reference. Never record a review as passed before performing it. Scripts check structure, traceability, and freshness; they cannot establish semantic truth or visual quality. Report unavailable checks explicitly and deliver a review draft if release requirements remain unmet.
+Record the other required reviews using the QA reference. Never record a review as passed before performing it. Review compression for omitted qualifications, comparisons, or decision conditions that could change the executive's action. Locate the affected passage, name the misleading inference, and correct it. In a fresh-reader test, compare the unprompted recommendation and conditions recovered by the reader with the supported intended message. Scripts check structure, traceability, and freshness; they cannot establish semantic truth or visual quality. Report unavailable checks explicitly and deliver a review draft if release requirements remain unmet.
 
 ## Handoff
 

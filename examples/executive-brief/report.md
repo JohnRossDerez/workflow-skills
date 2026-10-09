@@ -1,23 +1,21 @@
-The `executive-brief-writing` skill helps an agent turn R&D evidence into a concise explanation, decision brief or recommendation for a mostly nontechnical sponsor. It brings the answer and consequences forward while preserving the uncertainty that could change a decision. Specialist detail can sit in an appendix or linked reference. [@S01]
+The `executive-brief-writing` skill turns researched evidence on any topic into a concise explanation, decision brief or recommendation for an executive reader. It can serve a vendor choice, an operating question, a policy issue or a research update. The answer comes first, with the uncertainty that could change the reader's decision. [@S01]
 
-## What changes in the writing
+## Why the approach is useful
 
-The author starts with the sponsor's question and selects the support needed to answer it. After assembling the brief, an editorial pass locates reading problems such as stacked abstractions or an unexplained connection. Edits vary pace where the argument calls for it and recheck changed meaning against sources. The skill does not prescribe a new tone every sentence or use sentence-length scores as a quality target. [@S01; @S06]
+Digital.gov recommends writing for the audience's knowledge and organizing the answer up front. Its paraphrase test asks readers to explain meaning and intended action in their own words. Applied here, the test is whether an executive can recover the answer and its conditions without an explanation from the author. This is a design rationale, not proof that this skill improves human understanding. [@S07; @S08]
 
-A short or low-risk brief can use one manuscript and concise evidence notes. When sources change or exports recur, the managed path adds a reader brief, plan and evidence records to track reviews. A full dependency graph tracks relationships for substantial coordination; technical subject matter alone does not require it. One lead author keeps responsibility for the complete brief. [@S01]
+Clear prose still needs evidence. Gao and colleagues' ALCE research treats fluency, factual correctness and citation quality as separate questions. Its 2023 results motivate inspecting source support rather than trusting a polished, referenced answer; they do not estimate current-model reliability. [@S09]
 
-## What the evidence supports
+## Where reviewers should focus
 
-A bounded comparison included two executive briefs and two technical papers. Initial executive drafts needed clearer release scope and evidence allocation. After clarification and a genuine source correction, final independent reviewers found no material factual defect; fresh readers recovered the message and limits. One executive case used direct drafting, the other managed production with compact planning. These were agent-based reviews and reader checks, not tests with intended human readers. These observations establish feasibility for that task, without establishing average quality or savings. [@S03; @S04]
+- **An attractive answer outruns its sources:** open the original evidence and check that it supports the actual recommendation, including material contrary findings.
+- **A shorter brief loses a condition:** compare the opening answer with the evidence. In a hypothetical supplier brief, a saving that applies only to low-volume orders must keep that condition beside the recommendation.
+- **A reader merely agrees:** ask a fresh reader what they understood, what they would do and what could change the answer. Inspect the final PDF after corrections. [@S01; @S08; @S09]
 
-The helper suite passed {{number:N01}} checks of structure and freshness. Those checks do not establish recommendation truth. The final wording retained the direct path after the comparison; that wording change was not a separate author trial. The comparison delivered Markdown and did not test PDF appearance. The prose-editing revision and this PDF are subsequent demonstrations, not additions to that trial. [@S05; @S03; @S06]
+## What is established, and how to start
 
-## A proportionate first use
+A local comparison included four initial author cases across executive and technical writing. Three of the four initial drafts needed corrections to evidence attribution or scope. Final agent reviewers and fresh agent readers passed the revised documents after a source correction. This demonstrates feasibility in those cases, not average quality, savings or human-reader benefit. The comparison delivered Markdown and did not test PDF appearance. This PDF is a separate demonstration. [@S03]
 
-Try it on the next reviewed R&D update using an existing evidence packet and the sponsor's question. Start direct; add managed controls when changing evidence warrants them. Before circulation, verify material claims, ask a fresh reader to explain the message and caveats, and inspect the rendered pages. This proposed first use commits no budget or staffing. Whether the new editorial pass improves reading across topics and sponsors remains untested. [@S01; @S02; @S06]
+Start with one brief, the reader's question and concise evidence notes. Add managed records when changing sources or repeated publication make version tracking useful; use a dependency graph only when coordination warrants it. The scope is any researched topic: R&D was the demonstration setting. [@S01]
 
 \newpage
-
-### Evidence notes
-
-Local sources are archived with this brief. Instructions establish intended behavior; evaluation records establish bounded observations. These related project artifacts are not independent studies.

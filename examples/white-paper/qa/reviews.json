@@ -50,5 +50,161 @@
       "output/report.pdf": "be0d6836b91d29a65264cd4d4b0b76ddca70b0882b73438e3d83235fb1ed82b9"
     },
     "checked_at": "2026-10-02T06:14:34.033067+00:00"
+  },
+  {
+    "kind": "evidence",
+    "status": "pass",
+    "reviewer": "/root/sample_evidence_review",
+    "method": "independent",
+    "notes_file": "qa/evidence-review-20261009.md",
+    "notes_sha256": "aadea5a0b1120c3e3196d063fce5bce5994e6c48b957c9a0912b891a51ab5204",
+    "content_digest": "464207cba40e3260e97f73ac2a94eaabb68b0108ea09c05c1f1c01cad08e95f2",
+    "artifacts": {
+      "output/report.pdf": "5deeb38c8fbc00371b55fddf8969f7ce756be4877c4250f8978690edb7aa32ed"
+    },
+    "checked_at": "2026-10-09T13:02:16.727866+00:00"
+  },
+  {
+    "kind": "editorial",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "self",
+    "notes_file": "qa/editorial-review-20261009.md",
+    "notes_sha256": "dfbb50cbfd9c20edb3bde4d8ddc78c2955546a61642ee830d7d32ee2a2a6e011",
+    "content_digest": "464207cba40e3260e97f73ac2a94eaabb68b0108ea09c05c1f1c01cad08e95f2",
+    "artifacts": {
+      "output/report.pdf": "5deeb38c8fbc00371b55fddf8969f7ce756be4877c4250f8978690edb7aa32ed"
+    },
+    "checked_at": "2026-10-09T13:02:16.946226+00:00"
+  },
+  {
+    "kind": "cold_reader",
+    "status": "pass",
+    "reviewer": "/root/white_sample_reader",
+    "method": "independent",
+    "notes_file": "qa/cold-reader-20261009.md",
+    "notes_sha256": "5d5aaed5125dadd18eb59f9efad53387e2bde08153921cd9ba25b81e32b1be37",
+    "content_digest": "464207cba40e3260e97f73ac2a94eaabb68b0108ea09c05c1f1c01cad08e95f2",
+    "artifacts": {
+      "output/report.pdf": "5deeb38c8fbc00371b55fddf8969f7ce756be4877c4250f8978690edb7aa32ed"
+    },
+    "checked_at": "2026-10-09T13:02:17.151959+00:00"
+  },
+  {
+    "kind": "visual:pdf",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "rendered",
+    "notes_file": "qa/pdf-review-20261009.md",
+    "notes_sha256": "ac009aeea86e73be75a6b3263677f7157ba76da770579fb71466da12bc2ac7f5",
+    "content_digest": "464207cba40e3260e97f73ac2a94eaabb68b0108ea09c05c1f1c01cad08e95f2",
+    "artifacts": {
+      "output/report.pdf": "5deeb38c8fbc00371b55fddf8969f7ce756be4877c4250f8978690edb7aa32ed"
+    },
+    "checked_at": "2026-10-09T13:02:17.375421+00:00"
+  },
+  {
+    "kind": "evidence",
+    "status": "pass",
+    "reviewer": "/root/researched_samples_evidence",
+    "method": "independent",
+    "notes_file": "qa/evidence-review-researched-20261009.md",
+    "notes_sha256": "a35da252048f00b33271f9814a3babbbb695518e6967ff65e3fb791efa86438f",
+    "content_digest": "522d1369d35b243da26d26f6a437b4892a33195fbb34bcaa3f939871da9176ec",
+    "artifacts": {
+      "output/report.pdf": "a6bd2b5fd39e42ecc3a6cb76c80c2bb647c3f168df12e4d7e4b5283d4ccfb479"
+    },
+    "checked_at": "2026-10-09T13:16:46.546643+00:00"
+  },
+  {
+    "kind": "editorial",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "self",
+    "notes_file": "qa/editorial-review-researched-20261009.md",
+    "notes_sha256": "2895479441b6ff99ae81fe3b56c40cce0444d687ced51db389d0852e42bf3663",
+    "content_digest": "522d1369d35b243da26d26f6a437b4892a33195fbb34bcaa3f939871da9176ec",
+    "artifacts": {
+      "output/report.pdf": "a6bd2b5fd39e42ecc3a6cb76c80c2bb647c3f168df12e4d7e4b5283d4ccfb479"
+    },
+    "checked_at": "2026-10-09T13:16:46.759413+00:00"
+  },
+  {
+    "kind": "cold_reader",
+    "status": "pass",
+    "reviewer": "/root/researched_white_final_reader",
+    "method": "independent",
+    "notes_file": "qa/cold-reader-researched-20261009.md",
+    "notes_sha256": "6f32baab9a4124ba514dfda0df573283e4cb07732b02a1b00d04b1b61177e6d9",
+    "content_digest": "522d1369d35b243da26d26f6a437b4892a33195fbb34bcaa3f939871da9176ec",
+    "artifacts": {
+      "output/report.pdf": "a6bd2b5fd39e42ecc3a6cb76c80c2bb647c3f168df12e4d7e4b5283d4ccfb479"
+    },
+    "checked_at": "2026-10-09T13:16:46.985744+00:00"
+  },
+  {
+    "kind": "visual:pdf",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "rendered",
+    "notes_file": "qa/pdf-review-researched-20261009.md",
+    "notes_sha256": "ab3002b7736ecedb990a608bba29cd7be14caf2fa9e6fb7a41bb1daa784f871e",
+    "content_digest": "522d1369d35b243da26d26f6a437b4892a33195fbb34bcaa3f939871da9176ec",
+    "artifacts": {
+      "output/report.pdf": "a6bd2b5fd39e42ecc3a6cb76c80c2bb647c3f168df12e4d7e4b5283d4ccfb479"
+    },
+    "checked_at": "2026-10-09T13:16:47.205809+00:00"
+  },
+  {
+    "kind": "evidence",
+    "status": "pass",
+    "reviewer": "/root/ai_reference_review",
+    "method": "independent",
+    "notes_file": "qa/evidence-review-ai-reference-20261009.md",
+    "notes_sha256": "c9803ba65c9aedca3f0dad9e683b28861c7b0526a9454c5ac025e33cddaf32f0",
+    "content_digest": "75abc88d54f354cf78f6001f6fb09e439b6e7c13ccfdf73096f23143b6e71eb7",
+    "artifacts": {
+      "output/report.pdf": "c25596b1f51e8d7ac890376420bd6baf5fee3177ade73a9648d82a67f20b4ac8"
+    },
+    "checked_at": "2026-10-09T13:20:19.701741+00:00"
+  },
+  {
+    "kind": "editorial",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "self",
+    "notes_file": "qa/editorial-review-ai-reference-20261009.md",
+    "notes_sha256": "81415d10d590bcb7a2705c24ec043f7926115e183ea46106e90f1b23c41601f3",
+    "content_digest": "75abc88d54f354cf78f6001f6fb09e439b6e7c13ccfdf73096f23143b6e71eb7",
+    "artifacts": {
+      "output/report.pdf": "c25596b1f51e8d7ac890376420bd6baf5fee3177ade73a9648d82a67f20b4ac8"
+    },
+    "checked_at": "2026-10-09T13:20:19.954601+00:00"
+  },
+  {
+    "kind": "cold_reader",
+    "status": "pass",
+    "reviewer": "/root/ai_reference_reader",
+    "method": "independent",
+    "notes_file": "qa/cold-reader-ai-reference-20261009.md",
+    "notes_sha256": "f873f774d8dbe7ed3676baf321b59b36cab4594ccd4fbfb641ae6dace04814f1",
+    "content_digest": "75abc88d54f354cf78f6001f6fb09e439b6e7c13ccfdf73096f23143b6e71eb7",
+    "artifacts": {
+      "output/report.pdf": "c25596b1f51e8d7ac890376420bd6baf5fee3177ade73a9648d82a67f20b4ac8"
+    },
+    "checked_at": "2026-10-09T13:20:20.187069+00:00"
+  },
+  {
+    "kind": "visual:pdf",
+    "status": "pass",
+    "reviewer": "root",
+    "method": "rendered",
+    "notes_file": "qa/pdf-review-ai-reference-20261009.md",
+    "notes_sha256": "762b25a04e563721f73cd5ad75cde14dc4c891a3c9113b8cdd7dac2f8af50472",
+    "content_digest": "75abc88d54f354cf78f6001f6fb09e439b6e7c13ccfdf73096f23143b6e71eb7",
+    "artifacts": {
+      "output/report.pdf": "c25596b1f51e8d7ac890376420bd6baf5fee3177ade73a9648d82a67f20b4ac8"
+    },
+    "checked_at": "2026-10-09T13:20:20.388045+00:00"
   }
 ]

@@ -3,88 +3,99 @@
     "id": "E01",
     "claim_id": "C01",
     "source_id": "S01",
-    "locator": "Skill description",
-    "excerpt": "concise, evidence-grounded briefs for mostly nontechnical executives",
+    "locator": "Description / Choose the result",
+    "excerpt": "Turn research and analysis into concise, evidence-grounded briefs",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Inspected the cited original section and its scope. Interpretation is labeled as application or analogy; guidance and historical observations do not validate this complete skill."
   },
   {
     "id": "E02",
     "claim_id": "C02",
-    "source_id": "S01",
-    "locator": "Start or resume",
-    "excerpt": "For a short or low-risk brief, work directly with proportional evidence notes",
+    "source_id": "S07",
+    "locator": "Audience / Follow plain language guidelines",
+    "excerpt": "Use language your audience understands and feels comfortable with.",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Inspected the cited original section and its scope. Interpretation is labeled as application or analogy; guidance and historical observations do not validate this complete skill."
   },
   {
     "id": "E03",
     "claim_id": "C03",
-    "source_id": "S01",
-    "locator": "Start or resume",
-    "excerpt": "Length, technical complexity and multiple output formats alone do not require a graph",
+    "source_id": "S08",
+    "locator": "Conduct between 6 to 9 interviews / Ask additional, open-ended questions",
+    "excerpt": "Do not correct the participant.",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Inspected the cited original section and its scope. Interpretation is labeled as application or analogy; guidance and historical observations do not validate this complete skill."
   },
   {
     "id": "E04",
     "claim_id": "C04",
-    "source_id": "S03",
-    "locator": "Actual executions table",
-    "excerpt": "Two-task/two-repetition breadth and allocation to engineering families unclear",
+    "source_id": "S09",
+    "locator": "Abstract",
+    "excerpt": "fluency, correctness, and citation quality",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Inspected the cited original section and its scope. Interpretation is labeled as application or analogy; guidance and historical observations do not validate this complete skill."
   },
   {
     "id": "E05",
     "claim_id": "C05",
-    "source_id": "S04",
-    "locator": "Final review aggregate, including W01/W02",
-    "excerpt": "\"final_independent_semantic\": \"4/4 no material defect\"",
+    "source_id": "S03",
+    "locator": "Actual executions and final revision review",
+    "excerpt": "Fresh readers recovered the material meaning of all four revisions without a demonstrated material misunderstanding",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Inspected the cited original section and its scope. Interpretation is labeled as application or analogy; guidance and historical observations do not validate this complete skill."
   },
   {
     "id": "E06",
     "claim_id": "C06",
     "source_id": "S03",
     "locator": "Interpretation and limits",
-    "excerpt": "Markdown-only cases do not establish rendered PDF/Word quality.",
+    "excerpt": "One execution per audience/condition cannot establish average effectiveness",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Inspected the cited original section and its scope. Interpretation is labeled as application or analogy; guidance and historical observations do not validate this complete skill."
   },
   {
     "id": "E07",
     "claim_id": "C07",
     "source_id": "S03",
-    "locator": "Changes and use cases",
-    "excerpt": "It is not an additional author trial.",
+    "locator": "Interpretation and limits",
+    "excerpt": "Markdown-only cases do not establish rendered PDF/Word quality.",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected original source and adjacent qualification; observation remains scoped to local design or bounded evaluation."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Exact historical limitation inspected in S03. The current PDF is a separate sample build. No claim about editing-instruction chronology is made from this source."
   },
   {
     "id": "E08",
     "claim_id": "C08",
-    "source_id": "S06",
-    "locator": "Located prose-editing pass",
-    "excerpt": "After assembly, read a paragraph in its surrounding argument before editing individual sentences.",
+    "source_id": "S01",
+    "locator": "Start or resume",
+    "excerpt": "For a short or low-risk brief, work directly with proportional evidence notes",
     "relation": "direct",
     "verification": "verified",
-    "reviewer": "root source inspection",
-    "assessment": "Inspected the editing contract and its nearby restrictions; design claim only, no effectiveness claim."
+    "reviewer": "root original-source inspection 2026-10-09",
+    "assessment": "Inspected the cited original section and its scope. Interpretation is labeled as application or analogy; guidance and historical observations do not validate this complete skill."
+  },
+  {
+    "id": "E09",
+    "claim_id": "C09",
+    "source_id": "S03",
+    "locator": "Actual executions, W01/W02/W04 initial findings and final disposition",
+    "excerpt": "Assigned writing instructions described as shared raw-input evidence",
+    "relation": "direct",
+    "verification": "verified",
+    "reviewer": "root plus independent semantic reviewer original-source inspection",
+    "assessment": "W04 initially misattributed provenance; W01 release version and W02 task/repetition and family scope were unclear. Initial defects remain beside final revised passes."
   }
 ]

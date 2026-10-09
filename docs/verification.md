@@ -33,6 +33,16 @@ python3 skills/repository-refactoring/scripts/inventory_repository.py \
 
 It reports candidate entry points and coarse absolute-import relationships. Relative imports, dynamic imports and runtime behavior still require inspection.
 
-## Publication-copy checks
+## Initial publication-copy checks
 
 Both writing helper suites passed 48 full-workflow and 16 compact-workflow checks each in this copied repository: 128 checks in total. Both managed PDF examples passed release validation. The four skill metadata checks passed and skill file hashes matched the reviewed candidates. Navigation links were checked separately from verbatim evidence archives, whose original relative links retain their source context. The package-extraction example passed eight checks at each of its baseline, reference legacy and reference canonical entry points; its incomplete candidate failed as expected. These checks establish the distributed examples and helper behavior, without extending the earlier author experiment.
+
+## Researched sample PDF refresh — 2026-10-09
+
+Both self-description PDFs were rebuilt with the current helpers, Pandoc 3.12.1 and MiKTeX pdfTeX. The technical sample has two main pages and one reference page; the executive sample has one main page and one reference page. The executive scope covers any topic requiring researched evidence. Targeted web research added Digital.gov writing and paraphrase-testing guidance, Anthropic AI workflow guidance (technical sample) and Gao et al.'s 2023 ALCE research. These explain design rationale and concrete failure audits; they do not validate the complete skills or estimate current-model failure rates. Selective extracts, precise locators, source-family limits and search/stopping notes accompany the manuscripts.
+
+Each sample received an independent original-source review (gpt-6-sol/high), a fresh agent reader (gpt-6-sol/medium), a separate editorial self-review and inspection of every rendered page. Evidence review prompted disclosure of initial trial defects, design-framed editing language and a narrower historical boundary. The notes preserve those findings and their corrections. Readers recovered the message and found the audits actionable; they retained minor questions about workflow thresholds and pass criteria. The final white-paper cleanup removed only a redundant citation after its reader test, with no prose change. No comparative author trial or intended-human-reader test was performed.
+
+Actual PDF citation destinations all resolve. Both release validators passed with zero errors or warnings. Sample headers defer hyperlink setup, label bibliography items and separate the references heading from its list. Example text uses LF through `.gitattributes` so byte-based content and review fingerprints survive Windows and Unix checkouts. The build manifests and actual review records accompany the PDFs; these checks apply to the displayed samples, not general writing quality.
+
+A follow-up AI engineering correction replaced the technical paper's generic NASA analogy with Anthropic's bounded-workflow and evaluator-criteria guidance. The technical paper received a new independent source check, a new fresh reader, editorial review and inspection of all three final pages; the executive artifact was unchanged. The removed analogy remains only as superseded evidence history.
